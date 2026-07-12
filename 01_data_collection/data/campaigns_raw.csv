@@ -1,0 +1,13 @@
+campaign_id,campaign_name,channel,start_date,end_date,budget_eur,target_city
+C001,Berlin Winter Launch,Google Ads,2024-01-15,2024-03-15,12000,Berlin
+C002,Munich Airport Push,Meta Ads,2024-02-01,2024-04-30,9500,Munich
+C003,Referral Bonus Q2,Referral,2024-04-01,2024-06-30,6000,ALL
+C004,Hamburg Harbour Days,Meta Ads,2024-05-01,2024-05-31,4000,Hamburg
+C005,Summer Nights,TikTok Ads,2024-06-15,2024-08-31,8000,ALL
+C006,Frankfurt Business,Google Ads,2024-09-01,2024-11-30,11000,Frankfurt
+C007,Winter Comeback,Meta Ads,2024-12-01,2025-01-31,7500,ALL
+C008,Cologne Karneval,Meta Ads,2025-02-01,2025-03-05,5000,Cologne
+C009,Spring Referral,Referral,2025-03-15,2025-05-15,6500,ALL
+C010,Munich Oktoberfest,Google Ads,2025-09-01,2025-10-10,15000,Munich
+C011,Black Week,TikTok Ads,2025-11-20,2025-12-01,9000,ALL
+C012,New Year Reactivation,Meta Ads,2026-01-02,2026-02-15,8500,ALL

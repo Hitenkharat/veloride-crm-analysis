@@ -1,0 +1,2026 @@
+user_id,signup_date,city,acquisition_channel,birth_year,email
+U00483,2025-08-12,Munich,Meta Ads,1982,user483@example.com
+U01303,2025-08-24,Berlin,Referral,1958,user1303@example.com
+U00971,04.10.2025,Munich,Organic,1984,user971@example.com
+U00089,2025-04-21,Berlin,Meta Ads,1981,user89@example.com
+U00456,12.04.2025,Cologne,Meta Ads,1970,user456@example.com
+U00555,2024-10-24,Munich,Referral,1991,user555@example.com
+U00541,2024-12-17,Frankfurt,Referral,1972,user541@example.com
+U00557,2024-08-21,Cologne,Meta Ads,1966,
+U00101,2025-04-03,Munich,Referral,1963,user101@example.com
+U00077,2024-12-09,Frankfurt,Meta Ads,1992,user77@example.com
+U00436,2025-06-14,Berlin,Meta Ads,1970,user436@example.com
+U00825,2025-09-26,Hamburg,Google Ads,1971,user825@example.com
+U00393,2025-05-02,Hamburg,Google Ads,2004,user393@example.com
+U01115,2025-10-25,Cologne,Google Ads,1967,user1115@example.com
+U00885,2025-06-23,Berlin,TikTok Ads,2006,user885@example.com
+U00626,2024-01-07,Berlin,Google Ads,1997,user626@example.com
+U00929,2025-05-24,Frankfurt,Referral,1997,user929@example.com
+U00611,2024-02-22,Frankfurt,TikTok Ads,1998,user611@example.com
+U00548,2025-02-23,Munich,Google Ads,1987,user548@example.com
+U00182,23.07.2025,Frankfurt,Referral,1993,user182@example.com
+U00216,2025-11-17,Berlin,Organic,2005,user216@example.com
+U01617,2025-04-22,Munich,Referral,1991,user1617@example.com
+U00038,2025-07-09,Cologne,TikTok Ads,1978,user38@example.com
+U01243,2025-07-21,Berlin,Google Ads,1970,user1243@example.com
+U00439,2025-07-13,Berlin,Google Ads,2006,user439@example.com
+U00357,2025-12-01,Berlin,Google Ads,1963,user357@example.com
+U00966,2025-11-27,Frankfurt,TikTok Ads,1961,user966@example.com
+U00480,03.07.2024,Hamburg,Google Ads,1996,user480@example.com
+U00924,2024-02-07,Berlin,Meta Ads,1979,user924@example.com
+U01077,2025-04-09,Frankfurt,Meta Ads,2006,user1077@example.com
+U00970,2024-06-17,Munich,TikTok Ads,2002,user970@example.com
+U00974,2025-05-12,Frankfurt,Referral,2002,user974@example.com
+U01456,2025-04-01,Frankfurt,Google Ads,2004,user1456@example.com
+U01894,2025-09-14,Munich,TikTok Ads,1982,user1894@example.com
+U01784,2025-10-13,Munich,Referral,1972,
+U00582,2025-08-09,Frankfurt,Google Ads,1989,user582@example.com
+U01733,2024-04-08,Berlin,TikTok Ads,1990,
+U00334,2025-07-23,Cologne,Referral,1980,user334@example.com
+U00160,2025-11-22,Hamburg,TikTok Ads,1959,user160@example.com
+U01534,2025-09-27,Berlin,Google Ads,1964,user1534@example.com
+U00933,2024-05-16,Berlin,Organic,1998,user933@example.com
+U00249,2025-11-18,Munich,Google Ads,1981,user249@example.com
+U01615,14.07.2024,Berlin,Organic,1991,user1615@example.com
+U00341,2024-08-04,Frankfurt,Meta Ads,2005,user341@example.com
+U01559,2024-10-01,Cologne,Referral,1970,user1559@example.com
+U00508,01.04.2025,Hamburg,TikTok Ads,1986,user508@example.com
+U01999,2025-09-08,Berlin,Meta Ads,1999,user1999@example.com
+U00804,2025-09-19,Berlin,Organic,1972,
+U01484,2025-05-03,Berlin,Meta Ads,1968,user1484@example.com
+U00959,2024-07-08,Berlin,Google Ads,1981,user959@example.com
+U01513,28.07.2025,Frankfurt,Google Ads,1964,user1513@example.com
+U00713,2025-10-08,Munich,Referral,1983,user713@example.com
+U00673,2025-07-19,Frankfurt,Referral,1988,user673@example.com
+U00005,2024-10-11,Berlin,Referral,2006,user5@example.com
+U01314,2025-05-07,Frankfurt,Organic,1981,user1314@example.com
+U00965,2024-08-02,Hamburg,TikTok Ads,2006,user965@example.com
+U00861,2024-05-27,Munich,Referral,1997,user861@example.com
+U00315,2024-06-05,Frankfurt,TikTok Ads,1996,user315@example.com
+U01477,2025-07-05,Berlin,TikTok Ads,1992,user1477@example.com
+U00551,2025-09-21,Frankfurt,Google Ads,1985,user551@example.com
+U01047,2025-11-22,Hamburg,Meta Ads,1989,user1047@example.com
+U01500,2025-08-24,Hamburg,Meta Ads,1988,user1500@example.com
+U01482,17.08.2024,Munich,Organic,1966,user1482@example.com
+U01138,2024-12-13,Hamburg,Organic,2003,user1138@example.com
+U00946,2024-08-13,Munich,Meta Ads,1995,user946@example.com
+U00419,2025-06-11,Frankfurt,Referral,2002,user419@example.com
+U00658,2024-05-17,Munich,Referral,1960,user658@example.com
+U00275,2025-03-04,Hamburg,Meta Ads,1968,user275@example.com
+U01070,2025-01-11,Berlin,Google Ads,1959,user1070@example.com
+U00980,2025-04-04,Berlin,Organic,1968,user980@example.com
+U00986,2024-10-11,Berlin,TikTok Ads,1963,user986@example.com
+U00988,2025-02-11,Hamburg,Referral,1985,user988@example.com
+U01808,2024-07-16,Munich,Organic,1990,user1808@example.com
+U00219,2025-07-06,Cologne,Meta Ads,1991,user219@example.com
+U01749,2025-04-20,Munich,Organic,2000,user1749@example.com
+U00853,2024-10-06,Cologne,TikTok Ads,1975,user853@example.com
+U00573,2024-04-16,Frankfurt,Meta Ads,1995,user573@example.com
+U00830,2024-10-26,Cologne,Organic,1965,user830@example.com
+U00938,2025-07-25,Cologne,Referral,1965,user938@example.com
+U00993,2025-02-28,Munich,Meta Ads,1987,user993@example.com
+U00996,2024-09-25,Hamburg,Organic,1998,user996@example.com
+U01945,2024-02-10,Hamburg,Meta Ads,1992,user1945@example.com
+U00881,2025-09-30,Frankfurt,Referral,1990,user881@example.com
+U01035,13.07.2025,Berlin,Organic,2006,user1035@example.com
+U01271,2025-08-06,Berlin,TikTok Ads,1998,user1271@example.com
+U00826,2024-05-28,Hamburg,Google Ads,2000,user826@example.com
+U00115,2024-08-25,Munich,Referral,1976,user115@example.com
+U00494,2024-07-05,Frankfurt,Meta Ads,1997,user494@example.com
+U00806,2025-05-18,Berlin,Referral,1968,user806@example.com
+U01287,2024-11-30,Cologne,Meta Ads,1987,user1287@example.com
+U01366,2024-03-14,Cologne,Organic,1976,user1366@example.com
+U00452,2024-07-02,Frankfurt,Meta Ads,1960,user452@example.com
+U00102,2025-11-10,Cologne,Referral,1988,user102@example.com
+U01221,2025-08-29,Frankfurt,Meta Ads,1979,user1221@example.com
+U00053,2025-01-08,Munich,Google Ads,1960,user53@example.com
+U01071,2025-11-18,Hamburg,Google Ads,1993,user1071@example.com
+U01160,2025-07-11,Frankfurt,Meta Ads,1997,user1160@example.com
+U01253,2024-08-12,Hamburg,Organic,1986,user1253@example.com
+U00050,2024-01-04,Frankfurt,TikTok Ads,1966,user50@example.com
+U01279,2025-05-17,Frankfurt,Referral,1994,user1279@example.com
+U00640,2024-05-17,Hamburg,Referral,1979,user640@example.com
+U01973,2024-09-26,Cologne,Referral,1965,user1973@example.com
+U01067,2024-04-19,Cologne,Google Ads,1975,user1067@example.com
+U01623,2025-02-12,Cologne,Referral,1964,user1623@example.com
+U01210,2024-08-27,Cologne,Meta Ads,1981,user1210@example.com
+U01289,2024-04-12,Berlin,Google Ads,1965,user1289@example.com
+U00149,2025-10-16,Munich,Organic,2002,user149@example.com
+U00821,2024-11-11,Munich,Meta Ads,1986,user821@example.com
+U01421,2025-11-13,Berlin,Organic,1988,user1421@example.com
+U01904,2024-08-21,Hamburg,TikTok Ads,1987,user1904@example.com
+U01650,2025-04-28,Cologne,Referral,1969,user1650@example.com
+U01444,2025-05-21,Cologne,Organic,1990,user1444@example.com
+U00935,2025-03-02,Hamburg,TikTok Ads,1988,user935@example.com
+U00302,2024-01-06,Frankfurt,Organic,1968,user302@example.com
+U01454,2025-01-26,Cologne,Meta Ads,1974,user1454@example.com
+U01379,2025-07-23,Cologne,TikTok Ads,1991,user1379@example.com
+U01175,2025-02-22,Munich,Google Ads,1981,user1175@example.com
+U01771,2025-05-20,Berlin,Referral,1977,user1771@example.com
+U01474,2024-04-25,Munich,Meta Ads,2004,user1474@example.com
+U00516,2025-02-01,Frankfurt,Google Ads,1993,user516@example.com
+U00687,2024-09-20,Frankfurt,TikTok Ads,1994,user687@example.com
+U00941,2024-06-29,Munich,Organic,1960,user941@example.com
+U01431,2024-12-10,Hamburg,Google Ads,1961,user1431@example.com
+U01222,2024-12-14,Berlin,TikTok Ads,1979,user1222@example.com
+U01742,2024-09-28,Hamburg,Meta Ads,1989,user1742@example.com
+U00675,2025-04-02,Hamburg,TikTok Ads,1968,user675@example.com
+U00248,02.04.2025,Berlin,Google Ads,1980,user248@example.com
+U00568,2024-10-24,Berlin,Google Ads,2001,user568@example.com
+U00262,2025-04-22,Cologne,TikTok Ads,1980,user262@example.com
+U01051,2025-06-27,Hamburg,TikTok Ads,1971,user1051@example.com
+U00112,2024-10-31,Cologne,Google Ads,1985,user112@example.com
+U01844,2025-03-08,Berlin,TikTok Ads,1977,user1844@example.com
+U01241,2024-04-27,Hamburg,Google Ads,1986,user1241@example.com
+U00956,2025-07-25,Munich,Referral,2002,user956@example.com
+U01373,2024-09-03,Frankfurt,Google Ads,1977,user1373@example.com
+U00631,2025-07-20,Cologne,Organic,1967,
+U01514,2024-08-16,Frankfurt,TikTok Ads,1987,user1514@example.com
+U00999,2024-05-02,Munich,TikTok Ads,2004,user999@example.com
+U01750,2025-05-15,Cologne,Meta Ads,2001,user1750@example.com
+U01929,2025-02-27,Cologne,Google Ads,1967,user1929@example.com
+U00094,2025-03-19,Munich,Organic,1998,user94@example.com
+U00128,2024-05-14,Berlin,TikTok Ads,1986,user128@example.com
+U01302,09.12.2024,Munich,TikTok Ads,1995,user1302@example.com
+U01344,2025-10-15,Berlin,Referral,1978,user1344@example.com
+U01235,2025-03-08,Berlin,Referral,1970,user1235@example.com
+U00442,2025-10-17,Berlin,TikTok Ads,1997,user442@example.com
+U00709,2024-01-21,Munich,TikTok Ads,1980,user709@example.com
+U01788,2025-10-22,Cologne,Referral,1979,user1788@example.com
+U01116,2024-10-24,Munich,Meta Ads,1963,user1116@example.com
+U00633,2025-02-26,Cologne,Referral,1990,user633@example.com
+U01335,2024-03-22,Berlin,TikTok Ads,1982,user1335@example.com
+U01593,2025-04-16,Hamburg,Referral,1959,user1593@example.com
+U00681,2025-09-05,Berlin,Referral,2002,user681@example.com
+U00227,2024-04-03,Berlin,Organic,1972,user227@example.com
+U01273,2025-01-30,Frankfurt,Google Ads,1972,user1273@example.com
+U00408,2024-08-18,Frankfurt,TikTok Ads,1968,user408@example.com
+U00238,2024-01-17,Berlin,TikTok Ads,1962,user238@example.com
+U01004,2025-01-06,Munich,TikTok Ads,1995,user1004@example.com
+U01105,2024-01-27,Berlin,Referral,2001,user1105@example.com
+U01770,2024-05-24,Munich,Google Ads,1988,user1770@example.com
+U00596,2025-02-26,Cologne,Referral,2005,user596@example.com
+U01088,2025-03-04,Munich,TikTok Ads,1967,user1088@example.com
+U00002,2024-03-30,Cologne,TikTok Ads,1960,user2@example.com
+U00632,2025-07-04,Hamburg,Meta Ads,1963,user632@example.com
+U00418,2025-08-14,Berlin,Organic,1998,user418@example.com
+U00530,2024-12-24,Hamburg,Google Ads,1974,user530@example.com
+U00051,2025-03-13,Munich,TikTok Ads,1965,user51@example.com
+U00985,2024-12-31,Cologne,Meta Ads,1961,user985@example.com
+U01096,2024-02-15,Hamburg,Organic,1989,user1096@example.com
+U00029,2024-03-13,Munich,TikTok Ads,1975,user29@example.com
+U00989,2024-12-25,Frankfurt,Organic,1986,user989@example.com
+U01162,2025-07-07,Hamburg,Meta Ads,1963,user1162@example.com
+U00575,2025-05-14,Hamburg,Google Ads,1984,user575@example.com
+U01706,2024-01-26,Hamburg,Organic,1981,user1706@example.com
+U00011,2024-09-07,Cologne,Meta Ads,1982,user11@example.com
+U00613,2024-03-10,Berlin,Referral,1968,user613@example.com
+U00421,2025-07-01,Hamburg,Referral,1985,user421@example.com
+U00549,2025-05-14,Frankfurt,Referral,1969,user549@example.com
+U00361,2025-12-01,Hamburg,Google Ads,1992,user361@example.com
+U00266,2024-05-08,Munich,TikTok Ads,1997,user266@example.com
+U00818,2024-04-03,Frankfurt,TikTok Ads,1986,user818@example.com
+U00847,2025-03-30,Hamburg,Organic,1988,user847@example.com
+U00031,2024-12-28,Berlin,Google Ads,1987,user31@example.com
+U00979,2024-07-29,Munich,Referral,1960,user979@example.com
+U01030,2025-05-11,Hamburg,Organic,1967,user1030@example.com
+U01259,2024-04-10,Munich,Referral,1981,user1259@example.com
+U01826,2025-01-17,Munich,TikTok Ads,1988,user1826@example.com
+U01729,2025-03-12,Munich,Google Ads,1982,user1729@example.com
+U00300,2024-04-21,Cologne,Meta Ads,1995,user300@example.com
+U00100,2024-03-28,Frankfurt,Organic,1984,user100@example.com
+U01250,2025-11-10,Cologne,Referral,1968,user1250@example.com
+U01057,2025-02-24,Hamburg,Referral,1962,user1057@example.com
+U00586,2025-04-29,Munich,Google Ads,1981,user586@example.com
+U01430,2024-04-03,Munich,Meta Ads,1982,user1430@example.com
+U00047,2024-09-27,Hamburg,TikTok Ads,1964,user47@example.com
+U00129,2024-09-02,Berlin,Meta Ads,1977,user129@example.com
+U01296,2024-07-31,Munich,Google Ads,1983,user1296@example.com
+U00114,2024-03-17,Hamburg,Google Ads,1984,user114@example.com
+U01286,2024-12-17,Berlin,Meta Ads,1970,
+U00901,2025-03-18,Hamburg,Google Ads,1999,user901@example.com
+U00724,2024-08-20,Munich,Referral,1986,user724@example.com
+U00173,2024-03-06,Cologne,Meta Ads,1981,user173@example.com
+U00558,2024-05-06,Hamburg,TikTok Ads,1999,user558@example.com
+U01362,2025-10-08,Berlin,Referral,1989,user1362@example.com
+U00466,2024-11-17,Frankfurt,Referral,1992,user466@example.com
+U00472,2025-08-19,Frankfurt,Meta Ads,1962,user472@example.com
+U00610,2024-01-06,Hamburg,TikTok Ads,2003,user610@example.com
+U01184,2024-07-16,Cologne,TikTok Ads,1992,user1184@example.com
+U01821,2025-11-05,Hamburg,TikTok Ads,1988,user1821@example.com
+U01158,2025-11-28,Hamburg,Google Ads,1977,user1158@example.com
+U01949,2024-05-07,Cologne,Google Ads,1969,user1949@example.com
+U01018,2024-07-15,Berlin,Meta Ads,1968,user1018@example.com
+U00271,2025-04-09,Frankfurt,Meta Ads,1961,user271@example.com
+U01605,2025-08-31,Munich,Organic,1988,user1605@example.com
+U01616,2025-04-10,Frankfurt,Meta Ads,1980,user1616@example.com
+U00585,2025-01-07,Cologne,TikTok Ads,1972,user585@example.com
+U01515,2025-04-21,Frankfurt,Organic,1969,user1515@example.com
+U01765,2024-10-25,Frankfurt,Referral,1972,user1765@example.com
+U00872,2025-02-03,Hamburg,Referral,1986,user872@example.com
+U00934,23.03.2024,Cologne,Referral,1969,user934@example.com
+U00087,2025-10-27,Munich,Meta Ads,1999,user87@example.com
+U01028,2024-08-26,Cologne,TikTok Ads,2004,user1028@example.com
+U01831,2024-01-01,Berlin,Meta Ads,1970,user1831@example.com
+U00945,2024-04-22,Munich,Organic,1964,user945@example.com
+U01455,2025-03-28,Frankfurt,Meta Ads,1975,user1455@example.com
+U00162,2024-04-29,Berlin,Meta Ads,1960,user162@example.com
+U01819,2024-12-16,Hamburg,Google Ads,1990,user1819@example.com
+U01295,2024-02-15,Munich,TikTok Ads,1964,user1295@example.com
+U00533,2024-05-15,Cologne,Referral,1996,user533@example.com
+U01900,2024-12-31,Cologne,Meta Ads,1994,user1900@example.com
+U00265,2025-06-15,Cologne,Referral,1963,user265@example.com
+U00024,2025-06-29,Munich,Referral,1966,user24@example.com
+U01527,2025-06-17,Frankfurt,TikTok Ads,1986,user1527@example.com
+U01133,2025-09-02,Cologne,TikTok Ads,1976,user1133@example.com
+U01655,2025-09-18,Hamburg,TikTok Ads,1960,user1655@example.com
+U00581,2024-08-16,Frankfurt,Organic,1982,user581@example.com
+U00669,2025-09-04,Berlin,TikTok Ads,1984,
+U00858,2024-12-30,Cologne,Google Ads,1970,user858@example.com
+U00820,2025-08-02,Berlin,Organic,1967,user820@example.com
+U01471,2025-11-14,Berlin,Referral,1997,user1471@example.com
+U00661,2025-02-24,Cologne,Referral,1995,user661@example.com
+U00895,2025-09-01,Frankfurt,Organic,1967,user895@example.com
+U01676,2025-03-23,Munich,Organic,1973,user1676@example.com
+U01562,2024-11-15,Frankfurt,Organic,1971,user1562@example.com
+U01324,2024-09-05,Munich,Referral,1981,user1324@example.com
+U01417,2024-01-08,Hamburg,Referral,2000,user1417@example.com
+U00226,2024-10-18,Munich,Organic,1968,user226@example.com
+U00663,2025-01-22,Cologne,Organic,1964,user663@example.com
+U00151,2025-11-05,Berlin,TikTok Ads,1958,user151@example.com
+U00880,2024-03-27,Cologne,Organic,1984,user880@example.com
+U00846,2024-08-09,Munich,Google Ads,1969,user846@example.com
+U00711,2025-11-20,Cologne,Referral,2005,user711@example.com
+U00755,2025-10-19,Cologne,Referral,2000,user755@example.com
+U00138,2025-05-29,Frankfurt,Google Ads,1979,user138@example.com
+U00730,2024-10-18,Berlin,Meta Ads,1992,user730@example.com
+U01683,2025-05-12,Cologne,Meta Ads,1971,user1683@example.com
+U01760,2025-10-08,Frankfurt,Organic,1973,user1760@example.com
+U00891,2024-01-28,Hamburg,Referral,1963,user891@example.com
+U01975,2025-04-12,Hamburg,Google Ads,2000,user1975@example.com
+U00310,2025-10-16,Berlin,Meta Ads,1985,user310@example.com
+U01117,2025-12-01,Berlin,TikTok Ads,1973,user1117@example.com
+U00778,2024-09-25,Munich,Organic,1990,user778@example.com
+U01544,2025-02-16,Munich,TikTok Ads,1991,user1544@example.com
+U00252,2025-01-14,Hamburg,Organic,2006,user252@example.com
+U00766,10.02.2025,Cologne,Meta Ads,1960,user766@example.com
+U01403,2025-10-12,Berlin,Google Ads,1977,user1403@example.com
+U00546,2025-08-17,Berlin,Organic,1962,user546@example.com
+U00339,2024-10-01,Munich,TikTok Ads,1996,user339@example.com
+U01686,2024-02-04,Berlin,Google Ads,1995,user1686@example.com
+U01993,2025-05-13,Cologne,TikTok Ads,1972,user1993@example.com
+U01156,2025-02-06,Cologne,Google Ads,2000,user1156@example.com
+U01983,2024-07-26,Frankfurt,Organic,1983,user1983@example.com
+U00871,2025-10-13,Cologne,Referral,2006,user871@example.com
+U00006,2024-12-18,Frankfurt,Google Ads,1960,user6@example.com
+U01053,2025-06-11,Cologne,Meta Ads,2006,user1053@example.com
+U01319,2024-06-07,Hamburg,Organic,1958,user1319@example.com
+U00994,2024-07-09,Hamburg,TikTok Ads,1976,user994@example.com
+U00750,2024-01-01,Berlin,TikTok Ads,1990,user750@example.com
+U00232,2025-09-15,Berlin,Google Ads,1965,user232@example.com
+U01787,2024-08-09,Cologne,TikTok Ads,1974,user1787@example.com
+U00035,2025-02-20,Munich,Organic,1971,user35@example.com
+U00702,2025-03-05,Frankfurt,Meta Ads,1981,user702@example.com
+U00096,2025-04-21,Munich,Google Ads,2004,user96@example.com
+U01111,2024-05-03,Cologne,Meta Ads,1985,user1111@example.com
+U01464,2025-07-30,Munich,Google Ads,1968,user1464@example.com
+U00703,2025-08-08,Hamburg,Meta Ads,1994,user703@example.com
+U01799,2024-09-16,Hamburg,Organic,1958,user1799@example.com
+U00009,2025-01-24,Hamburg,Meta Ads,1998,user9@example.com
+U01012,2024-04-24,Berlin,Google Ads,1988,user1012@example.com
+U00862,2024-11-28,Frankfurt,Organic,1959,user862@example.com
+U01354,2025-03-23,Berlin,Google Ads,1972,user1354@example.com
+U00814,2024-10-28,Frankfurt,Organic,1961,user814@example.com
+U01504,2025-09-30,Frankfurt,Meta Ads,1985,user1504@example.com
+U01503,2025-10-29,Hamburg,Referral,1979,user1503@example.com
+U01174,29.04.2025,Berlin,TikTok Ads,1968,user1174@example.com
+U01126,2025-11-20,Munich,Meta Ads,2001,user1126@example.com
+U01315,2025-06-01,Frankfurt,Google Ads,1985,user1315@example.com
+U00591,2025-04-06,Frankfurt,Google Ads,1995,user591@example.com
+U01089,2025-04-06,Berlin,Google Ads,1981,user1089@example.com
+U00400,2025-09-17,Cologne,Meta Ads,1965,user400@example.com
+U00764,2025-02-26,Munich,TikTok Ads,1985,user764@example.com
+U01829,2025-08-04,Berlin,Google Ads,1966,user1829@example.com
+U01044,2024-11-08,Frankfurt,Organic,1968,user1044@example.com
+U00905,2024-12-25,Cologne,Google Ads,1976,user905@example.com
+U01633,2024-04-09,Berlin,Google Ads,1994,user1633@example.com
+U01681,2025-03-30,Munich,TikTok Ads,1981,user1681@example.com
+U00553,14.07.2024,Hamburg,Referral,1958,user553@example.com
+U00055,2024-06-30,Frankfurt,Meta Ads,1959,user55@example.com
+U01791,2024-03-20,Frankfurt,Organic,1961,user1791@example.com
+U00180,2024-04-07,Munich,Organic,1978,user180@example.com
+U01991,2024-05-07,Hamburg,Referral,1997,user1991@example.com
+U01525,2024-03-20,Hamburg,Google Ads,1995,user1525@example.com
+U00202,2025-06-27,Munich,Meta Ads,1980,user202@example.com
+U00940,2024-07-17,Frankfurt,Organic,1967,user940@example.com
+U01660,2025-01-03,Munich,TikTok Ads,1994,user1660@example.com
+U01364,2024-07-02,Munich,Google Ads,2004,user1364@example.com
+U01372,2025-08-30,Berlin,Google Ads,1967,user1372@example.com
+U00686,2025-02-20,Berlin,TikTok Ads,1993,user686@example.com
+U00060,2024-09-24,Hamburg,Referral,1974,user60@example.com
+U00865,2025-08-27,Frankfurt,Organic,1997,user865@example.com
+U01385,2024-05-23,Hamburg,TikTok Ads,2002,user1385@example.com
+U01333,2024-04-22,Munich,Meta Ads,1971,user1333@example.com
+U00470,2025-04-08,Munich,Google Ads,1993,user470@example.com
+U00282,2024-05-01,Hamburg,TikTok Ads,1964,user282@example.com
+U00787,2024-05-24,Cologne,Google Ads,2000,user787@example.com
+U00003,2024-01-28,Munich,Organic,2003,user3@example.com
+U01457,2025-05-22,Cologne,Organic,1969,user1457@example.com
+U01134,2025-09-18,Berlin,Organic,1989,user1134@example.com
+U01472,2025-05-26,Berlin,Google Ads,1974,user1472@example.com
+U01777,2024-05-23,Berlin,Organic,1993,
+U00390,2025-08-12,Cologne,TikTok Ads,1981,user390@example.com
+U01573,2025-04-08,Berlin,Referral,1978,user1573@example.com
+U00955,2025-02-07,Munich,Google Ads,2002,user955@example.com
+U00801,2024-05-29,Frankfurt,Referral,2006,user801@example.com
+U00593,2024-06-30,Frankfurt,TikTok Ads,1969,user593@example.com
+U00690,2024-11-19,Hamburg,Meta Ads,1980,
+U00106,2024-08-20,Hamburg,Google Ads,1977,user106@example.com
+U00855,2024-09-07,Frankfurt,Google Ads,1977,user855@example.com
+U01867,2024-11-07,Munich,TikTok Ads,1978,user1867@example.com
+U00967,2025-06-23,Cologne,Referral,1988,user967@example.com
+U00324,2025-01-26,Cologne,Meta Ads,1982,user324@example.com
+U00637,2025-09-26,Cologne,Referral,1970,user637@example.com
+U00916,2025-06-11,Berlin,TikTok Ads,1989,user916@example.com
+U00770,2025-08-07,Frankfurt,Meta Ads,1971,user770@example.com
+U00909,2024-10-10,Hamburg,Referral,2002,user909@example.com
+U01687,2024-10-12,Frankfurt,Organic,1982,user1687@example.com
+U00260,2024-03-29,Cologne,Organic,1983,user260@example.com
+U01195,2024-10-02,Cologne,Meta Ads,1995,user1195@example.com
+U01631,2025-02-06,Cologne,Organic,2000,user1631@example.com
+U01375,2024-01-12,Cologne,Meta Ads,1963,user1375@example.com
+U00792,2025-07-28,Hamburg,Referral,1959,user792@example.com
+U01899,2024-11-12,Berlin,Meta Ads,1967,user1899@example.com
+U01841,2025-03-07,Frankfurt,Google Ads,1983,user1841@example.com
+U00433,2024-04-12,Frankfurt,Referral,1965,user433@example.com
+U01641,2024-05-25,Cologne,Meta Ads,2000,user1641@example.com
+U00184,2024-11-15,Frankfurt,Meta Ads,1994,user184@example.com
+U01661,2025-05-23,Hamburg,Referral,1971,user1661@example.com
+U00071,2025-02-13,Berlin,Organic,1999,user71@example.com
+U00130,2024-04-26,Hamburg,TikTok Ads,1965,user130@example.com
+U01811,2025-04-19,Hamburg,TikTok Ads,1963,user1811@example.com
+U01291,2024-08-09,Berlin,Organic,1961,user1291@example.com
+U00435,2024-10-18,Hamburg,Meta Ads,2002,user435@example.com
+U01842,2024-12-20,Berlin,Meta Ads,1964,user1842@example.com
+U00736,2024-09-29,Hamburg,Organic,1962,user736@example.com
+U01340,2025-11-12,Hamburg,Google Ads,1997,user1340@example.com
+U01433,11.02.2024,Frankfurt,Referral,2000,user1433@example.com
+U00254,2025-06-14,Frankfurt,Meta Ads,1993,user254@example.com
+U00345,2024-11-16,Berlin,Referral,1994,user345@example.com
+U00076,2025-05-11,Munich,Referral,1975,user76@example.com
+U00739,2025-02-02,Berlin,TikTok Ads,1977,user739@example.com
+U00676,2025-09-20,Berlin,Google Ads,2003,user676@example.com
+U00798,2025-07-09,Munich,Meta Ads,1999,user798@example.com
+U01944,2024-07-12,Cologne,TikTok Ads,1971,user1944@example.com
+U00206,2025-10-08,Berlin,Referral,1975,user206@example.com
+U01861,2024-09-30,Berlin,Referral,1998,user1861@example.com
+U01353,2025-08-12,Frankfurt,TikTok Ads,1996,user1353@example.com
+U00209,2025-08-08,Berlin,Organic,1978,user209@example.com
+U01627,2024-05-21,Hamburg,Organic,2002,user1627@example.com
+U00605,2025-01-25,Berlin,Referral,2001,user605@example.com
+U01407,2024-01-15,Cologne,Referral,2005,user1407@example.com
+U01611,2025-11-06,Frankfurt,Referral,1980,user1611@example.com
+U00075,2024-06-11,Hamburg,TikTok Ads,1988,user75@example.com
+U01792,2024-11-30,Frankfurt,Organic,2006,user1792@example.com
+U01897,2024-11-17,Munich,TikTok Ads,1982,user1897@example.com
+U01619,06.05.2024,Berlin,Google Ads,1977,user1619@example.com
+U01939,2024-10-10,Munich,TikTok Ads,2005,user1939@example.com
+U00338,2024-12-04,Munich,Google Ads,1986,user338@example.com
+U01076,2024-09-24,Cologne,Referral,1980,user1076@example.com
+U01624,2024-06-26,Munich,Meta Ads,2001,user1624@example.com
+U00279,03.07.2025,Hamburg,Organic,1964,user279@example.com
+U00242,2025-02-11,Munich,Referral,1992,user242@example.com
+U01592,2025-10-25,Munich,Google Ads,1987,user1592@example.com
+U01823,2024-06-11,Munich,Referral,1979,user1823@example.com
+U01215,2024-09-15,Berlin,Referral,2019,user1215@example.com
+U01776,26.04.2024,Cologne,Organic,1985,user1776@example.com
+U01751,2025-02-22,Frankfurt,Organic,1978,user1751@example.com
+U01716,2024-08-23,Munich,TikTok Ads,1984,user1716@example.com
+U01206,2025-07-05,Frankfurt,Google Ads,1999,user1206@example.com
+U01498,2024-07-18,Berlin,Referral,1983,user1498@example.com
+U01288,2025-03-24,Berlin,TikTok Ads,1975,user1288@example.com
+U00689,2024-01-29,Munich,Meta Ads,1974,user689@example.com
+U00251,2025-10-22,Munich,Organic,1982,user251@example.com
+U00450,2024-06-10,Berlin,Meta Ads,1964,user450@example.com
+U00287,2024-01-18,Hamburg,Google Ads,2001,user287@example.com
+U01108,2025-08-05,Berlin,Google Ads,1961,user1108@example.com
+U01383,2024-05-07,Berlin,Meta Ads,1981,user1383@example.com
+U00803,2024-05-14,Cologne,TikTok Ads,2006,user803@example.com
+U01219,2024-08-19,Munich,Meta Ads,1985,user1219@example.com
+U00606,2024-07-26,Hamburg,TikTok Ads,1986,user606@example.com
+U00230,2024-02-09,Frankfurt,Organic,1988,user230@example.com
+U01290,2025-11-24,Berlin,TikTok Ads,1986,user1290@example.com
+U01741,2025-10-11,Munich,Meta Ads,1973,user1741@example.com
+U01510,14.05.2025,Munich,Organic,1976,user1510@example.com
+U00453,2024-11-25,Cologne,Referral,2004,user453@example.com
+U00344,2024-04-10,Munich,Referral,2004,user344@example.com
+U00535,2024-11-05,Cologne,Referral,1997,user535@example.com
+U01418,2025-01-08,Frankfurt,Organic,1969,user1418@example.com
+U01690,2025-08-28,Frankfurt,Organic,1959,user1690@example.com
+U00104,2024-05-02,Frankfurt,Referral,2006,user104@example.com
+U01813,2024-03-24,Munich,Meta Ads,1973,user1813@example.com
+U01189,2024-04-03,Munich,Referral,1964,user1189@example.com
+U01446,2025-08-08,Cologne,Organic,2002,user1446@example.com
+U01618,2025-05-13,Hamburg,TikTok Ads,1976,user1618@example.com
+U00836,2025-09-22,Munich,Google Ads,1984,user836@example.com
+U01387,2024-07-11,Munich,TikTok Ads,1971,user1387@example.com
+U00447,2025-06-13,Hamburg,Google Ads,2004,user447@example.com
+U00337,2025-02-26,Hamburg,Meta Ads,1993,user337@example.com
+U01377,2024-07-04,Munich,Google Ads,1999,user1377@example.com
+U01434,2025-09-13,Hamburg,Referral,1969,user1434@example.com
+U01398,2024-12-19,Cologne,Organic,2001,user1398@example.com
+U01251,2025-05-25,Frankfurt,Organic,1969,user1251@example.com
+U00531,30.01.2025,Munich,Meta Ads,1994,user531@example.com
+U01902,2024-03-09,Berlin,Google Ads,1992,user1902@example.com
+U00426,2025-11-11,Munich,Organic,1968,user426@example.com
+U01673,2025-09-14,Frankfurt,Google Ads,2001,
+U00521,2025-02-09,Frankfurt,Referral,1979,user521@example.com
+U00685,2025-09-12,Hamburg,Meta Ads,1987,user685@example.com
+U01465,2025-07-10,Berlin,Google Ads,1998,
+U01009,2024-11-15,Cologne,TikTok Ads,1966,user1009@example.com
+U01325,2025-09-11,Cologne,Meta Ads,2001,user1325@example.com
+U00204,2025-10-05,Cologne,TikTok Ads,2006,user204@example.com
+U00034,10.04.2024,Munich,Meta Ads,1992,user34@example.com
+U00502,2025-03-20,Frankfurt,TikTok Ads,1964,user502@example.com
+U01322,2025-08-02,Hamburg,TikTok Ads,2006,user1322@example.com
+U00355,2024-04-08,Hamburg,Referral,1973,user355@example.com
+U00886,2025-09-16,Berlin,TikTok Ads,1988,user886@example.com
+U01124,19.01.2024,Frankfurt,Organic,1965,user1124@example.com
+U00619,2025-06-04,Hamburg,TikTok Ads,1960,user619@example.com
+U00740,2025-06-17,Berlin,Meta Ads,1988,user740@example.com
+U01363,2024-06-05,Munich,Google Ads,1971,user1363@example.com
+U01110,01.04.2024,Hamburg,Meta Ads,1971,user1110@example.com
+U01384,03.11.2024,Cologne,Organic,1991,user1384@example.com
+U00140,2025-04-25,Berlin,Referral,1974,user140@example.com
+U00286,2025-08-30,Hamburg,Organic,1990,user286@example.com
+U01969,2024-05-14,Berlin,Organic,1981,user1969@example.com
+U01128,2025-05-07,Cologne,Meta Ads,1999,user1128@example.com
+U01023,2025-09-06,Cologne,Organic,2001,user1023@example.com
+U01752,2025-03-11,Hamburg,Google Ads,1961,user1752@example.com
+U01666,2025-06-14,Cologne,Google Ads,1990,user1666@example.com
+U01574,2024-01-19,Hamburg,Meta Ads,1994,user1574@example.com
+U01705,2025-08-07,Hamburg,Meta Ads,2001,user1705@example.com
+U00045,2024-09-07,Hamburg,TikTok Ads,1968,user45@example.com
+U00930,2025-11-25,Munich,Referral,1965,user930@example.com
+U00776,2025-04-01,Hamburg,Organic,1994,user776@example.com
+U01369,2024-08-02,Hamburg,TikTok Ads,2005,user1369@example.com
+U00244,2025-03-23,Hamburg,Meta Ads,2005,user244@example.com
+U00451,05.06.2025,Frankfurt,Meta Ads,1958,user451@example.com
+U00016,2025-05-20,Munich,Organic,1961,user16@example.com
+U01990,2024-11-14,Frankfurt,Referral,1998,user1990@example.com
+U00815,2024-04-02,Cologne,Meta Ads,1965,user815@example.com
+U01027,2024-06-21,Frankfurt,Google Ads,1970,user1027@example.com
+U01838,2024-01-02,Munich,Meta Ads,2006,user1838@example.com
+U00471,2024-01-13,Hamburg,Google Ads,1972,user471@example.com
+U01542,2025-08-08,Cologne,Organic,1973,user1542@example.com
+U01907,2024-04-10,Munich,Organic,1961,user1907@example.com
+U01280,2024-10-31,Cologne,Organic,1969,user1280@example.com
+U01038,2024-11-15,Frankfurt,TikTok Ads,1989,user1038@example.com
+U01850,2025-07-09,Hamburg,Referral,1976,
+U01928,2025-07-04,Berlin,Referral,1976,user1928@example.com
+U01685,2024-08-28,Berlin,Organic,1999,user1685@example.com
+U00859,2025-04-21,Frankfurt,Google Ads,1963,user859@example.com
+U01708,2024-01-27,Cologne,TikTok Ads,1971,user1708@example.com
+U01198,07.04.2025,Munich,Google Ads,1987,user1198@example.com
+U00879,2024-01-12,Frankfurt,Meta Ads,1959,user879@example.com
+U01442,2025-05-09,Hamburg,Meta Ads,1990,user1442@example.com
+U00757,2024-03-22,Frankfurt,Referral,1998,user757@example.com
+U01851,13.10.2025,Frankfurt,Meta Ads,1965,user1851@example.com
+U00896,2024-08-31,Hamburg,Google Ads,2004,user896@example.com
+U00888,2025-04-09,Hamburg,Referral,1988,user888@example.com
+U00515,2025-10-04,Berlin,Google Ads,1996,user515@example.com
+U00565,2025-05-07,Berlin,TikTok Ads,1958,user565@example.com
+U01011,2024-05-25,Berlin,Organic,1977,user1011@example.com
+U01380,2025-10-29,Berlin,Meta Ads,2006,user1380@example.com
+U00039,10.06.2024,Cologne,Google Ads,1990,user39@example.com
+U00191,24.09.2025,Frankfurt,TikTok Ads,1963,user191@example.com
+U01869,2025-07-23,Frankfurt,TikTok Ads,1973,user1869@example.com
+U01709,2024-12-18,Munich,Organic,1982,user1709@example.com
+U01048,2025-09-21,Berlin,TikTok Ads,1985,user1048@example.com
+U01064,2024-04-24,Cologne,TikTok Ads,1990,user1064@example.com
+U00771,2025-05-14,Berlin,TikTok Ads,2002,user771@example.com
+U00604,2025-10-24,Hamburg,Google Ads,1973,user604@example.com
+U01603,2025-11-28,Berlin,Organic,1969,user1603@example.com
+U00877,2025-01-26,Frankfurt,Meta Ads,1985,user877@example.com
+U01054,2025-08-13,Frankfurt,Referral,2000,user1054@example.com
+U00050,2024-01-04,Frankfurt,TikTok Ads,1966,user50@example.com
+U00958,2025-08-07,Munich,Organic,1959,user958@example.com
+U01891,2024-10-08,Berlin,Meta Ads,2006,user1891@example.com
+U01488,2024-01-12,Cologne,Referral,1985,user1488@example.com
+U00374,2024-06-22,Frankfurt,Meta Ads,1968,user374@example.com
+U01652,10.03.2024,Berlin,Organic,2004,user1652@example.com
+U01131,2024-09-05,Hamburg,Google Ads,1994,user1131@example.com
+U00545,2025-01-15,Berlin,TikTok Ads,1976,user545@example.com
+U01120,2024-04-26,Frankfurt,Google Ads,1987,user1120@example.com
+U01584,2025-11-15,Frankfurt,Referral,1991,user1584@example.com
+U01142,2024-08-28,Hamburg,Referral,1961,user1142@example.com
+U01345,2025-11-25,Berlin,Referral,1996,user1345@example.com
+U01478,2025-03-07,Berlin,Meta Ads,2002,user1478@example.com
+U00001,2025-10-16,Berlin,TikTok Ads,2005,user1@example.com
+U00578,2024-12-20,Cologne,TikTok Ads,1999,user578@example.com
+U01612,2024-07-30,Berlin,Referral,1970,user1612@example.com
+U01989,2024-07-29,Berlin,TikTok Ads,2001,user1989@example.com
+U01875,2025-11-02,Frankfurt,Organic,1964,user1875@example.com
+U00928,2024-04-09,Berlin,Google Ads,1968,user928@example.com
+U01806,2024-12-06,Cologne,Referral,1978,user1806@example.com
+U00170,2024-05-31,Cologne,Referral,1900,user170@example.com
+U00873,2025-08-06,Frankfurt,Referral,2001,user873@example.com
+U01389,2025-01-25,Hamburg,Organic,1968,user1389@example.com
+U01182,07.07.2025,Berlin,Meta Ads,2000,user1182@example.com
+U00571,2025-02-13,Frankfurt,Organic,1975,user571@example.com
+U00854,2024-04-14,Hamburg,TikTok Ads,1980,user854@example.com
+U00212,2024-10-16,Hamburg,Google Ads,1979,user212@example.com
+U01341,2024-01-04,Munich,Google Ads,2002,user1341@example.com
+U01675,2024-04-28,Munich,Referral,1997,user1675@example.com
+U01082,17.08.2024,Munich,Google Ads,1959,user1082@example.com
+U00952,2025-04-18,Munich,Referral,2004,user952@example.com
+U01596,2025-03-08,Cologne,TikTok Ads,1970,user1596@example.com
+U01608,2025-05-17,Hamburg,Organic,1992,user1608@example.com
+U00617,2024-02-10,Berlin,Organic,1978,user617@example.com
+U00876,2024-04-22,Frankfurt,Referral,1959,user876@example.com
+U00259,2025-01-04,Munich,TikTok Ads,1981,user259@example.com
+U01528,09.04.2024,Cologne,Meta Ads,2005,user1528@example.com
+U00056,2024-09-30,Frankfurt,Meta Ads,2002,user56@example.com
+U01146,2025-11-16,Frankfurt,Google Ads,1961,user1146@example.com
+U01220,2024-12-03,Frankfurt,Google Ads,1998,
+U01971,2024-06-14,Hamburg,Meta Ads,1958,user1971@example.com
+U01567,2024-09-08,Hamburg,Google Ads,2000,user1567@example.com
+U01893,2025-10-11,Munich,Meta Ads,2003,user1893@example.com
+U01216,2025-03-18,Frankfurt,Organic,1984,user1216@example.com
+U00211,2024-09-10,Hamburg,Referral,1986,user211@example.com
+U00110,2024-06-01,Cologne,Organic,1977,user110@example.com
+U01361,2024-11-23,Cologne,Organic,2002,user1361@example.com
+U01277,2025-08-24,Berlin,Meta Ads,2003,user1277@example.com
+U01046,2024-11-20,Frankfurt,Google Ads,1982,user1046@example.com
+U01022,2025-07-24,Hamburg,Organic,1963,user1022@example.com
+U01909,2025-05-13,Berlin,Organic,1958,user1909@example.com
+U01187,2024-03-27,Frankfurt,Google Ads,1996,user1187@example.com
+U00525,2025-06-12,Hamburg,TikTok Ads,1961,user525@example.com
+U01789,2025-09-22,Munich,Meta Ads,1988,
+U01079,2024-09-12,Frankfurt,Referral,1999,user1079@example.com
+U01866,2025-10-08,Cologne,Referral,1980,user1866@example.com
+U00987,2025-02-07,Berlin,Referral,1978,user987@example.com
+U00123,2025-04-26,Munich,Referral,1979,user123@example.com
+U00403,2025-03-04,Cologne,Meta Ads,1994,user403@example.com
+U00267,2025-08-17,Hamburg,TikTok Ads,2000,user267@example.com
+U01884,2025-04-26,Cologne,Google Ads,1962,user1884@example.com
+U00201,2024-11-13,Cologne,Google Ads,1972,user201@example.com
+U01445,2025-07-29,Berlin,Meta Ads,1983,user1445@example.com
+U00263,2024-07-05,Berlin,Google Ads,1966,user263@example.com
+U00207,2025-04-17,Berlin,TikTok Ads,1961,user207@example.com
+U01452,2024-11-28,Munich,Referral,1998,user1452@example.com
+U00398,2024-03-05,Frankfurt,Google Ads,1992,user398@example.com
+U00655,2024-06-02,Munich,Organic,1981,user655@example.com
+U00384,2024-05-22,Frankfurt,Organic,1973,user384@example.com
+U01440,2024-07-25,Cologne,Referral,1967,user1440@example.com
+U01323,2025-05-15,Frankfurt,Meta Ads,1981,user1323@example.com
+U01882,2024-06-30,Hamburg,Meta Ads,1990,user1882@example.com
+U01950,2024-06-15,Hamburg,Referral,1965,user1950@example.com
+U00733,2024-10-15,Berlin,Meta Ads,2003,
+U00785,2024-12-17,Hamburg,Meta Ads,1965,user785@example.com
+U00218,2024-07-15,Berlin,TikTok Ads,1966,user218@example.com
+U01915,2025-11-20,Munich,Meta Ads,1986,user1915@example.com
+U01863,2025-03-06,Cologne,Google Ads,1979,user1863@example.com
+U00522,16.01.2025,Berlin,Meta Ads,1977,user522@example.com
+U01350,2024-06-23,Berlin,Meta Ads,2000,user1350@example.com
+U01104,2025-08-07,Berlin,Referral,1962,user1104@example.com
+U01282,2024-09-02,Hamburg,Google Ads,1968,user1282@example.com
+U00978,2024-08-31,Hamburg,Meta Ads,1978,user978@example.com
+U01203,2025-04-08,Frankfurt,TikTok Ads,2000,user1203@example.com
+U00236,2025-01-04,Cologne,TikTok Ads,1991,user236@example.com
+U01536,2024-04-12,Hamburg,Organic,1990,user1536@example.com
+U00037,2025-07-23,Berlin,TikTok Ads,1989,user37@example.com
+U01822,2025-01-21,Hamburg,Google Ads,1960,user1822@example.com
+U01659,19.08.2025,Munich,Google Ads,2000,user1659@example.com
+U01558,2025-01-08,Berlin,Meta Ads,1971,user1558@example.com
+U00672,2025-08-01,Munich,Organic,1975,user672@example.com
+U00425,2024-06-11,Berlin,Referral,1975,user425@example.com
+U00991,2025-08-24,Cologne,Referral,1967,user991@example.com
+U01480,2024-03-02,Munich,Referral,1981,user1480@example.com
+U01166,2025-04-09,Cologne,TikTok Ads,1973,user1166@example.com
+U00523,2024-05-17,Hamburg,Organic,2005,user523@example.com
+U01026,2025-11-05,Cologne,Google Ads,1965,user1026@example.com
+U01239,2024-08-06,Frankfurt,Meta Ads,2005,user1239@example.com
+U00397,2024-07-21,Munich,Referral,1985,user397@example.com
+U00683,2025-11-16,Berlin,Google Ads,1995,
+U00737,2024-01-13,Frankfurt,Meta Ads,2003,user737@example.com
+U01293,2025-01-18,Berlin,Referral,1970,user1293@example.com
+U00141,2025-11-21,Frankfurt,TikTok Ads,1982,user141@example.com
+U01961,2025-07-06,Berlin,Google Ads,1996,user1961@example.com
+U01817,2025-10-08,Frankfurt,Meta Ads,1968,user1817@example.com
+U00225,2024-02-23,Cologne,Google Ads,1981,user225@example.com
+U00753,2025-02-23,Berlin,Meta Ads,1965,user753@example.com
+U01180,2024-05-21,Munich,Referral,1987,user1180@example.com
+U01580,2024-06-23,Cologne,Google Ads,2004,user1580@example.com
+U00231,22.09.2025,Munich,TikTok Ads,1963,user231@example.com
+U01699,2024-11-17,Hamburg,Referral,1986,user1699@example.com
+U00025,2025-06-24,Munich,Referral,1985,user25@example.com
+U00572,2025-10-26,Berlin,Meta Ads,1968,user572@example.com
+U00654,2025-05-28,Hamburg,Meta Ads,1986,user654@example.com
+U01311,2024-04-03,Munich,TikTok Ads,1993,user1311@example.com
+U01068,2025-05-17,Frankfurt,Organic,2002,user1068@example.com
+U01634,2025-08-21,Cologne,Meta Ads,2005,user1634@example.com
+U00119,2025-07-06,Hamburg,TikTok Ads,1963,user119@example.com
+U01982,2024-08-19,Cologne,Organic,2006,user1982@example.com
+U01953,2024-12-29,Hamburg,Meta Ads,1977,user1953@example.com
+U01565,2024-09-16,Cologne,Referral,1976,user1565@example.com
+U01756,01.11.2025,Munich,TikTok Ads,1971,user1756@example.com
+U00562,2025-09-12,Cologne,Google Ads,1984,user562@example.com
+U00159,2025-11-19,Hamburg,Google Ads,1974,user159@example.com
+U00666,2024-01-02,Hamburg,Google Ads,2001,user666@example.com
+U00833,2025-09-15,Hamburg,Meta Ads,1974,user833@example.com
+U00538,2024-06-02,Cologne,Organic,1973,user538@example.com
+U01152,2025-01-16,Munich,TikTok Ads,1984,user1152@example.com
+U01744,2025-03-20,Berlin,Organic,1993,user1744@example.com
+U01360,2025-09-07,Berlin,TikTok Ads,2005,user1360@example.com
+U01912,2024-10-17,Hamburg,Referral,1977,user1912@example.com
+U00072,2024-08-12,Munich,Google Ads,2002,user72@example.com
+U00352,2025-04-11,Frankfurt,Organic,1997,user352@example.com
+U01854,14.04.2025,Berlin,Organic,1978,user1854@example.com
+U01329,2024-04-01,Munich,Referral,1994,user1329@example.com
+U01696,2024-05-07,Munich,Organic,2000,user1696@example.com
+U01499,2025-02-21,Munich,Google Ads,1990,user1499@example.com
+U00369,2025-10-11,Berlin,Referral,1982,user369@example.com
+U00095,2024-06-29,Cologne,Organic,1999,user95@example.com
+U01678,2024-02-28,Cologne,Meta Ads,1969,user1678@example.com
+U01666,2025-06-14,Cologne,Google Ads,1990,user1666@example.com
+U01078,2024-01-04,Berlin,Meta Ads,1998,user1078@example.com
+U01625,2024-09-13,Hamburg,TikTok Ads,1993,user1625@example.com
+U01916,2024-04-21,Cologne,Organic,1971,user1916@example.com
+U00144,2024-11-02,Hamburg,Referral,1960,user144@example.com
+U00070,2024-03-15,Frankfurt,Organic,1998,user70@example.com
+U00066,2024-11-04,Cologne,TikTok Ads,1958,user66@example.com
+U00509,2024-03-04,Hamburg,TikTok Ads,2002,user509@example.com
+U01183,2024-01-26,Cologne,Google Ads,2003,user1183@example.com
+U01511,2025-01-10,Frankfurt,TikTok Ads,1997,user1511@example.com
+U00772,2025-10-19,Berlin,Referral,2004,user772@example.com
+U01143,2025-11-24,Frankfurt,Google Ads,1990,user1143@example.com
+U01691,2024-02-28,Hamburg,TikTok Ads,1993,user1691@example.com
+U00580,2024-03-17,Berlin,TikTok Ads,1978,user580@example.com
+U00667,2025-06-26,Cologne,TikTok Ads,1988,user667@example.com
+U01506,2024-01-16,Berlin,Organic,1977,user1506@example.com
+U01326,2024-01-13,Frankfurt,TikTok Ads,1963,user1326@example.com
+U01864,2024-12-17,Frankfurt,Meta Ads,1980,user1864@example.com
+U01270,2024-07-28,Berlin,Referral,1962,user1270@example.com
+U01191,2024-01-28,Frankfurt,Referral,1977,user1191@example.com
+U01521,2024-11-01,Hamburg,Meta Ads,1986,user1521@example.com
+U01208,2024-05-07,Berlin,Referral,1970,user1208@example.com
+U00844,2024-06-18,Hamburg,Referral,1982,user844@example.com
+U01188,2024-12-14,Frankfurt,Referral,1984,user1188@example.com
+U01828,2025-06-08,Cologne,Meta Ads,1977,user1828@example.com
+U00644,2025-07-18,Hamburg,Organic,1992,user644@example.com
+U00027,2024-09-10,Cologne,Meta Ads,1979,user27@example.com
+U00564,2024-07-25,Frankfurt,Meta Ads,1984,user564@example.com
+U00385,2024-03-16,Cologne,Organic,1996,user385@example.com
+U00323,28.04.2025,Frankfurt,Referral,1984,user323@example.com
+U01346,2025-03-14,Berlin,Organic,1988,user1346@example.com
+U01466,2025-07-11,Berlin,Meta Ads,1990,user1466@example.com
+U00842,2025-08-01,Cologne,Referral,1978,
+U01761,2024-05-14,Cologne,Organic,1975,user1761@example.com
+U00800,2024-06-10,Munich,Referral,1993,user800@example.com
+U01910,2025-10-20,Berlin,Referral,1998,user1910@example.com
+U01537,2024-08-04,Frankfurt,Google Ads,1987,user1537@example.com
+U01193,2024-08-30,Hamburg,Google Ads,2006,user1193@example.com
+U01967,2025-02-17,Munich,Referral,1997,user1967@example.com
+U01753,2024-11-11,Munich,Google Ads,1972,user1753@example.com
+U00601,28.05.2024,Munich,Referral,1961,user601@example.com
+U01010,2024-12-16,Munich,Meta Ads,1977,user1010@example.com
+U00292,2024-03-04,Frankfurt,TikTok Ads,1991,user292@example.com
+U01269,2025-08-04,Frankfurt,Organic,1996,user1269@example.com
+U01658,2024-07-25,Munich,Google Ads,1985,user1658@example.com
+U00868,2024-04-27,Frankfurt,Meta Ads,1987,user868@example.com
+U01392,2025-03-20,Cologne,Google Ads,1996,user1392@example.com
+U01798,2025-03-28,Berlin,Referral,1970,user1798@example.com
+U00281,2024-03-16,Cologne,TikTok Ads,1986,user281@example.com
+U00111,2025-09-12,Frankfurt,Organic,1997,user111@example.com
+U01926,2025-04-26,Frankfurt,Meta Ads,1960,user1926@example.com
+U00455,2024-03-11,Berlin,TikTok Ads,1976,user455@example.com
+U00609,21.01.2025,Cologne,Referral,1975,user609@example.com
+U00161,2024-08-14,Hamburg,Organic,1998,user161@example.com
+U01033,2025-09-28,Frankfurt,Organic,2006,user1033@example.com
+U01247,2024-11-21,Cologne,TikTok Ads,1998,user1247@example.com
+U01956,2024-05-23,Munich,Referral,2006,user1956@example.com
+U01237,2025-08-02,Berlin,Organic,1997,user1237@example.com
+U01240,2025-02-13,Berlin,TikTok Ads,1958,user1240@example.com
+U00911,2024-09-21,Munich,TikTok Ads,1974,user911@example.com
+U01386,2025-07-05,Munich,Google Ads,2002,user1386@example.com
+U01307,2025-02-28,Hamburg,Referral,1976,user1307@example.com
+U00432,2025-10-05,Munich,Google Ads,1984,user432@example.com
+U01985,2025-11-15,Berlin,Organic,2004,user1985@example.com
+U01855,2025-06-08,Hamburg,Organic,1963,user1855@example.com
+U01367,2024-04-09,Berlin,Referral,2006,user1367@example.com
+U01779,2025-10-27,Cologne,Referral,1976,user1779@example.com
+U01533,2024-06-30,Frankfurt,Referral,1968,user1533@example.com
+U01125,2025-11-04,Cologne,Referral,1996,user1125@example.com
+U00210,2024-04-15,Munich,Google Ads,1979,user210@example.com
+U01098,2024-11-16,Munich,TikTok Ads,1968,user1098@example.com
+U00306,2024-10-23,Hamburg,Referral,1958,user306@example.com
+U00012,2024-11-28,Hamburg,Organic,1961,user12@example.com
+U00434,2024-05-23,Cologne,TikTok Ads,1999,user434@example.com
+U01507,2024-04-06,Hamburg,TikTok Ads,1968,user1507@example.com
+U00255,2025-09-18,Berlin,Organic,1989,user255@example.com
+U01597,2025-05-20,Berlin,Meta Ads,1964,user1597@example.com
+U00077,2024-12-09,Frankfurt,Meta Ads,1992,user77@example.com
+U00537,2024-12-10,Hamburg,Meta Ads,1998,user537@example.com
+U01376,2024-01-24,Berlin,TikTok Ads,1994,user1376@example.com
+U01614,2025-11-26,Hamburg,Referral,1979,user1614@example.com
+U01767,2025-07-13,Frankfurt,Meta Ads,1986,user1767@example.com
+U00124,2025-02-25,Cologne,Google Ads,1976,user124@example.com
+U00954,15.02.2024,Frankfurt,TikTok Ads,1988,user954@example.com
+U00612,2025-07-17,Munich,TikTok Ads,2003,user612@example.com
+U01114,2024-07-09,Frankfurt,Meta Ads,1985,user1114@example.com
+U01935,2024-03-02,Berlin,TikTok Ads,1990,user1935@example.com
+U01980,2025-09-07,Cologne,Referral,1994,user1980@example.com
+U00550,2024-08-02,Berlin,Meta Ads,1968,user550@example.com
+U01986,2024-05-23,Munich,Organic,1968,user1986@example.com
+U00322,2025-08-15,Berlin,Google Ads,1985,user322@example.com
+U00497,02.01.2024,Frankfurt,Organic,1986,user497@example.com
+U01172,2025-05-16,Munich,Organic,1984,user1172@example.com
+U00280,09.01.2025,Cologne,Referral,1961,user280@example.com
+U01486,2024-11-02,Berlin,Referral,2004,user1486@example.com
+U01161,2024-11-04,Munich,TikTok Ads,1992,user1161@example.com
+U00495,2024-12-05,Berlin,Referral,1973,user495@example.com
+U01930,2025-03-24,Cologne,TikTok Ads,1994,user1930@example.com
+U01920,2024-09-26,Hamburg,Referral,1977,user1920@example.com
+U00336,2024-08-18,Berlin,TikTok Ads,2003,user336@example.com
+U01650,2025-04-28,Cologne,Referral,1969,user1650@example.com
+U01205,2024-01-05,Frankfurt,Organic,2001,user1205@example.com
+U01772,2025-08-01,Cologne,Organic,1958,user1772@example.com
+U01357,2024-07-13,Munich,TikTok Ads,1985,user1357@example.com
+U01058,2025-10-23,Berlin,Meta Ads,2001,user1058@example.com
+U01704,2024-04-21,Munich,Referral,1986,user1704@example.com
+U01773,2025-07-12,Frankfurt,TikTok Ads,1999,user1773@example.com
+U00147,2024-08-25,Frankfurt,Referral,1974,user147@example.com
+U00729,2024-09-26,Cologne,Referral,1998,user729@example.com
+U00283,2025-01-09,Berlin,Google Ads,1970,user283@example.com
+U01809,2024-02-15,Berlin,Referral,1970,user1809@example.com
+U01245,2025-04-12,Cologne,Organic,1981,user1245@example.com
+U01883,2024-09-07,Frankfurt,TikTok Ads,1962,user1883@example.com
+U00983,2025-08-01,Frankfurt,Google Ads,1986,user983@example.com
+U01252,2025-04-30,Berlin,Meta Ads,1983,user1252@example.com
+U01832,2024-08-29,Cologne,Referral,1985,user1832@example.com
+U00618,2024-09-19,Hamburg,TikTok Ads,1976,user618@example.com
+U00474,2025-08-10,Frankfurt,Meta Ads,2004,
+U01264,2025-07-19,Berlin,Referral,2004,user1264@example.com
+U00542,2025-06-03,Munich,Referral,1968,user542@example.com
+U01880,2024-06-28,Hamburg,Google Ads,2003,user1880@example.com
+U00786,2025-07-04,Frankfurt,TikTok Ads,1992,user786@example.com
+U01609,2024-01-14,Cologne,Organic,1977,user1609@example.com
+U01305,2025-05-25,Munich,TikTok Ads,1967,user1305@example.com
+U01782,2024-03-09,Berlin,TikTok Ads,1958,user1782@example.com
+U01554,2024-11-17,Berlin,Meta Ads,1986,user1554@example.com
+U00875,2024-03-04,Cologne,Referral,1993,
+U00524,2025-09-11,Frankfurt,Organic,1970,user524@example.com
+U01531,2025-10-26,Cologne,Organic,1984,user1531@example.com
+U01055,2025-10-15,Cologne,Google Ads,1997,user1055@example.com
+U00482,2025-11-03,Berlin,Meta Ads,1992,user482@example.com
+U01075,2025-04-27,Berlin,Meta Ads,1979,user1075@example.com
+U00923,2025-07-07,Frankfurt,Google Ads,1989,user923@example.com
+U00256,2024-06-25,Hamburg,Referral,1986,user256@example.com
+U01406,2025-05-06,Berlin,Organic,2001,user1406@example.com
+U00625,2025-04-06,Berlin,TikTok Ads,1985,user625@example.com
+U00878,2024-07-11,Munich,Meta Ads,1981,user878@example.com
+U01764,2024-10-07,Frankfurt,Organic,1964,user1764@example.com
+U01422,2025-05-15,Frankfurt,TikTok Ads,2001,user1422@example.com
+U01408,2024-09-07,Cologne,TikTok Ads,2000,user1408@example.com
+U01502,2025-11-28,Cologne,TikTok Ads,2003,user1502@example.com
+U01794,2024-06-19,Cologne,Organic,1975,user1794@example.com
+U01352,2025-11-12,Hamburg,Meta Ads,1992,user1352@example.com
+U00200,2025-03-23,Berlin,Organic,1973,user200@example.com
+U00716,2024-06-20,Hamburg,Google Ads,1959,user716@example.com
+U00340,2025-11-18,Hamburg,Google Ads,1988,user340@example.com
+U00592,2025-06-27,Frankfurt,TikTok Ads,1993,user592@example.com
+U00349,2024-05-23,Berlin,TikTok Ads,1989,user349@example.com
+U00569,2024-01-10,Frankfurt,TikTok Ads,2000,user569@example.com
+U00288,2025-09-03,Cologne,Meta Ads,1999,user288@example.com
+U00488,2024-06-30,Munich,Google Ads,1978,user488@example.com
+U00650,17.02.2024,Cologne,Referral,1999,user650@example.com
+U01072,2025-07-01,Frankfurt,Referral,1986,user1072@example.com
+U00240,2025-05-05,Frankfurt,Google Ads,1966,user240@example.com
+U01338,2025-09-09,Hamburg,TikTok Ads,2006,user1338@example.com
+U01481,2025-04-16,Munich,Meta Ads,1993,user1481@example.com
+U01802,2025-04-29,Berlin,Referral,1999,user1802@example.com
+U00253,2024-11-17,Munich,Organic,1973,
+U00428,2025-06-15,Berlin,Organic,1958,user428@example.com
+U01495,2024-11-12,Hamburg,Google Ads,1970,user1495@example.com
+U00458,03.06.2024,Berlin,Referral,1984,user458@example.com
+U00019,2024-04-24,Hamburg,TikTok Ads,1968,user19@example.com
+U00968,2025-04-07,Berlin,Meta Ads,2001,user968@example.com
+U00485,2025-08-04,Frankfurt,TikTok Ads,1994,user485@example.com
+U01300,2025-08-05,Frankfurt,Meta Ads,1964,user1300@example.com
+U00379,2024-11-03,Frankfurt,Referral,2002,user379@example.com
+U00132,2025-01-27,Berlin,Referral,1996,user132@example.com
+U00706,2024-11-19,Berlin,Organic,1977,user706@example.com
+U00383,2024-10-25,Frankfurt,Organic,1962,user383@example.com
+U01775,2024-05-10,Munich,Organic,1968,user1775@example.com
+U01149,2024-10-26,Berlin,Meta Ads,2006,user1149@example.com
+U01839,2025-05-26,Frankfurt,Meta Ads,1971,user1839@example.com
+U01948,2024-08-01,Frankfurt,TikTok Ads,1986,user1948@example.com
+U01778,2024-10-28,Hamburg,TikTok Ads,2001,user1778@example.com
+U00614,2024-08-14,Munich,TikTok Ads,2000,user614@example.com
+U01657,2025-10-14,Hamburg,Meta Ads,1970,user1657@example.com
+U01836,2025-09-03,Cologne,Google Ads,1962,user1836@example.com
+U01701,2024-04-27,Cologne,Referral,1969,user1701@example.com
+U00634,2024-07-17,Cologne,Organic,2000,user634@example.com
+U01524,2024-12-29,Cologne,Meta Ads,1994,
+U00319,2024-04-29,Cologne,Organic,2003,user319@example.com
+U00646,2025-06-06,Cologne,Meta Ads,1981,user646@example.com
+U01122,2025-09-30,Munich,Meta Ads,1979,user1122@example.com
+U00864,2024-04-19,Frankfurt,Organic,1999,user864@example.com
+U01181,2024-04-01,Frankfurt,Referral,2000,user1181@example.com
+U01059,15.07.2024,Frankfurt,Organic,1977,user1059@example.com
+U01728,2024-10-31,Cologne,TikTok Ads,1961,user1728@example.com
+U01868,2025-08-21,Berlin,Referral,1980,user1868@example.com
+U01265,2024-07-11,Cologne,Google Ads,2002,user1265@example.com
+U00222,2024-10-18,Frankfurt,Meta Ads,1986,user222@example.com
+U01672,2025-03-17,Munich,TikTok Ads,1972,user1672@example.com
+U00507,2024-04-03,Hamburg,Meta Ads,1982,user507@example.com
+U00532,2025-11-24,Berlin,Organic,1999,
+U00241,2024-10-27,Hamburg,TikTok Ads,1970,user241@example.com
+U01423,2025-02-02,Hamburg,TikTok Ads,1964,user1423@example.com
+U00297,2024-05-04,Hamburg,Meta Ads,1992,user297@example.com
+U00623,06.06.2024,Berlin,Meta Ads,2003,user623@example.com
+U00489,2025-06-22,Frankfurt,TikTok Ads,1962,user489@example.com
+U01266,2025-01-18,Frankfurt,Referral,1966,user1266@example.com
+U00332,2025-09-04,Cologne,Meta Ads,1978,user332@example.com
+U00069,2025-11-19,Frankfurt,TikTok Ads,1970,user69@example.com
+U01931,2024-10-25,Hamburg,Referral,1966,user1931@example.com
+U00913,2025-09-20,Berlin,Google Ads,1986,user913@example.com
+U01901,2024-07-26,Hamburg,TikTok Ads,1960,user1901@example.com
+U01416,2025-05-18,Berlin,Organic,1991,user1416@example.com
+U01858,2024-09-06,Frankfurt,Referral,1961,user1858@example.com
+U00164,2025-08-24,Frankfurt,TikTok Ads,1967,user164@example.com
+U00446,2024-01-13,Hamburg,TikTok Ads,2002,user446@example.com
+U00444,2025-03-23,Frankfurt,Google Ads,1973,user444@example.com
+U01664,2025-09-07,Hamburg,Organic,1959,user1664@example.com
+U00742,2024-05-02,Frankfurt,TikTok Ads,1973,user742@example.com
+U01175,2025-02-22,Munich,Google Ads,1981,user1175@example.com
+U00499,2024-06-15,Berlin,Google Ads,1960,user499@example.com
+U01774,2025-07-22,Berlin,Organic,2004,user1774@example.com
+U01548,2024-01-26,Hamburg,Meta Ads,1966,user1548@example.com
+U01045,2025-08-04,Cologne,Google Ads,1984,user1045@example.com
+U00563,2024-10-16,Hamburg,TikTok Ads,1964,user563@example.com
+U00850,2024-11-14,Hamburg,Organic,2001,user850@example.com
+U00311,2024-05-23,Frankfurt,Referral,1973,user311@example.com
+U01034,2024-07-25,Hamburg,TikTok Ads,1989,user1034@example.com
+U00402,2024-04-30,Cologne,Organic,1965,user402@example.com
+U01710,2025-10-26,Cologne,TikTok Ads,1962,user1710@example.com
+U00023,2024-02-29,Frankfurt,Google Ads,1994,user23@example.com
+U01016,2025-08-16,Cologne,Meta Ads,1968,user1016@example.com
+U01942,2025-03-13,Cologne,Organic,1972,user1942@example.com
+U01212,2025-05-20,Cologne,TikTok Ads,1970,user1212@example.com
+U00154,2025-10-04,Hamburg,Meta Ads,1977,user154@example.com
+U00484,2024-08-30,Berlin,Referral,2005,user484@example.com
+U00401,2025-11-20,Munich,Referral,1977,user401@example.com
+U00017,2025-09-02,Hamburg,TikTok Ads,1982,user17@example.com
+U02000,2025-01-04,Frankfurt,Google Ads,2003,user2000@example.com
+U01234,2025-11-04,Cologne,Google Ads,1961,user1234@example.com
+U00189,2024-04-03,Munich,Referral,1971,user189@example.com
+U01859,2024-07-09,Munich,Referral,2000,user1859@example.com
+U01056,2025-06-18,Hamburg,Organic,1987,user1056@example.com
+U00177,2024-11-28,Cologne,Organic,1996,user177@example.com
+U01049,2024-08-07,Munich,TikTok Ads,1961,user1049@example.com
+U01519,2025-01-05,Berlin,Organic,1988,user1519@example.com
+U00811,2024-04-21,Cologne,Organic,1960,user811@example.com
+U01725,2025-05-03,Cologne,Google Ads,2004,user1725@example.com
+U00015,2025-08-21,Munich,TikTok Ads,1995,user15@example.com
+U01684,2024-11-08,Munich,Google Ads,1971,user1684@example.com
+U00410,2024-02-12,Berlin,Meta Ads,1986,user410@example.com
+U01843,2024-11-22,Frankfurt,Organic,1990,user1843@example.com
+U01200,2025-10-09,Cologne,TikTok Ads,1990,user1200@example.com
+U00391,2024-06-03,Berlin,Google Ads,1959,user391@example.com
+U01246,2024-03-07,Frankfurt,Referral,1966,user1246@example.com
+U01556,2025-05-10,Hamburg,Google Ads,1996,user1556@example.com
+U01343,2025-04-07,Munich,Google Ads,2000,user1343@example.com
+U01648,2024-12-26,Munich,Referral,1994,user1648@example.com
+U00430,2024-11-16,Munich,Meta Ads,1977,user430@example.com
+U01031,2025-05-24,Berlin,Organic,1966,user1031@example.com
+U01199,2024-03-02,Frankfurt,Referral,1988,user1199@example.com
+U00756,2024-02-20,Munich,Organic,1996,
+U01719,2025-05-21,Berlin,Meta Ads,1970,user1719@example.com
+U00157,2024-12-12,Munich,Organic,1987,user157@example.com
+U00464,2025-02-06,Munich,Google Ads,2005,user464@example.com
+U00476,2025-09-20,Cologne,Organic,1973,user476@example.com
+U00890,2024-03-03,Hamburg,TikTok Ads,1995,user890@example.com
+U00475,2024-12-28,Munich,Google Ads,1969,user475@example.com
+U00413,2025-10-09,Munich,Google Ads,1997,user413@example.com
+U00867,2024-12-16,Cologne,Organic,1973,user867@example.com
+U01411,2025-01-23,Cologne,Google Ads,1965,user1411@example.com
+U00333,2025-02-27,Munich,Organic,1961,user333@example.com
+U00473,2024-04-04,Berlin,Meta Ads,1979,user473@example.com
+U01865,2025-06-29,Cologne,Google Ads,2001,user1865@example.com
+U01739,2024-10-09,Hamburg,Google Ads,2005,user1739@example.com
+U01679,2024-10-26,Berlin,Google Ads,1983,user1679@example.com
+U00362,2024-07-31,Berlin,Referral,2006,user362@example.com
+U01629,2025-03-07,Munich,TikTok Ads,1966,user1629@example.com
+U01194,2024-11-21,Munich,Google Ads,1984,
+U01139,2025-03-02,Frankfurt,Meta Ads,2001,user1139@example.com
+U01888,2024-06-22,Frankfurt,Meta Ads,2000,user1888@example.com
+U01017,2025-06-01,Cologne,Meta Ads,1964,user1017@example.com
+U00195,2024-09-18,Munich,Meta Ads,1965,user195@example.com
+U00951,2024-08-23,Cologne,Organic,1991,user951@example.com
+U01213,2024-06-28,Cologne,Meta Ads,1966,user1213@example.com
+U01224,2024-02-04,Frankfurt,Google Ads,2002,user1224@example.com
+U00501,2025-08-31,Munich,TikTok Ads,1988,user501@example.com
+U01476,2025-10-13,Cologne,Organic,1999,user1476@example.com
+U00308,2025-04-24,Hamburg,Meta Ads,1965,user308@example.com
+U00512,2024-11-02,Cologne,TikTok Ads,2003,user512@example.com
+U00380,2024-10-25,Munich,Referral,1998,user380@example.com
+U00492,2024-08-16,Hamburg,Meta Ads,1969,user492@example.com
+U00831,2025-06-21,Cologne,Google Ads,1971,user831@example.com
+U00761,2025-03-01,Frankfurt,Google Ads,1998,user761@example.com
+U00367,2024-08-21,Frankfurt,Google Ads,1982,user367@example.com
+U01469,2024-03-19,Berlin,Google Ads,1965,user1469@example.com
+U00948,2024-10-03,Hamburg,Meta Ads,1966,user948@example.com
+U00860,2025-04-11,Munich,Meta Ads,1999,user860@example.com
+U01244,2025-11-24,Munich,Referral,1999,user1244@example.com
+U00269,2025-10-28,Frankfurt,TikTok Ads,1994,user269@example.com
+U00583,2024-04-15,Berlin,TikTok Ads,1960,
+U00068,2025-11-05,Berlin,Meta Ads,1990,user68@example.com
+U00695,2024-01-07,Hamburg,TikTok Ads,1992,user695@example.com
+U01509,2024-09-19,Berlin,TikTok Ads,1986,user1509@example.com
+U00698,07.07.2025,Munich,Organic,1980,user698@example.com
+U00712,2025-04-19,Hamburg,Organic,1967,user712@example.com
+U00371,2025-07-24,Cologne,Google Ads,1984,user371@example.com
+U01758,2025-02-27,Berlin,TikTok Ads,2004,
+U01505,2024-08-01,Frankfurt,Google Ads,1996,user1505@example.com
+U00790,2024-01-20,Cologne,Google Ads,1999,user790@example.com
+U00603,2025-01-02,Cologne,Meta Ads,1964,user603@example.com
+U01937,2025-08-01,Cologne,Google Ads,1993,user1937@example.com
+U00091,2024-07-22,Hamburg,TikTok Ads,2002,user91@example.com
+U00957,2024-10-29,Munich,Organic,1963,user957@example.com
+U00763,2025-09-06,Hamburg,Referral,1980,user763@example.com
+U01553,2024-01-23,Frankfurt,Organic,1989,user1553@example.com
+U01917,2024-04-15,Hamburg,Meta Ads,1997,user1917@example.com
+U00944,2025-08-29,Hamburg,Meta Ads,1984,user944@example.com
+U01667,2025-08-19,Frankfurt,Referral,1974,user1667@example.com
+U00783,2024-05-29,Berlin,Google Ads,1972,user783@example.com
+U01594,2024-05-01,Frankfurt,TikTok Ads,1963,user1594@example.com
+U01781,2025-06-20,Munich,Organic,1988,user1781@example.com
+U01748,2024-10-21,Berlin,Meta Ads,1986,user1748@example.com
+U00838,2025-07-17,Frankfurt,TikTok Ads,1958,user838@example.com
+U00774,2024-01-12,Berlin,Referral,1998,user774@example.com
+U01571,2025-10-23,Munich,Meta Ads,2006,user1571@example.com
+U00062,2024-02-15,Munich,Referral,1958,user62@example.com
+U00751,2025-01-07,Cologne,Organic,1973,user751@example.com
+U00925,2025-10-31,Cologne,Meta Ads,1987,user925@example.com
+U01214,2025-06-19,Cologne,TikTok Ads,1975,user1214@example.com
+U01814,13.11.2024,Cologne,Referral,2003,user1814@example.com
+U01309,2025-09-14,Berlin,Google Ads,1991,user1309@example.com
+U00064,2025-06-03,Cologne,Meta Ads,1984,user64@example.com
+U00067,2025-11-01,Frankfurt,Meta Ads,1986,user67@example.com
+U00166,2024-08-29,Hamburg,Google Ads,1964,user166@example.com
+U01441,2025-07-27,Frankfurt,Google Ads,1981,user1441@example.com
+U00289,2024-02-22,Frankfurt,Meta Ads,1968,user289@example.com
+U00258,2025-06-04,Frankfurt,Google Ads,1970,user258@example.com
+U01365,2025-07-15,Frankfurt,Organic,1985,user1365@example.com
+U01157,2025-10-08,Frankfurt,Organic,2000,user1157@example.com
+U01415,2024-01-06,Berlin,Organic,2004,user1415@example.com
+U01039,2025-07-06,Berlin,Organic,1988,user1039@example.com
+U00544,2025-11-01,Frankfurt,Referral,1980,user544@example.com
+U01610,2024-04-25,Frankfurt,Meta Ads,1991,
+U01278,2025-04-01,Hamburg,TikTok Ads,1983,user1278@example.com
+U01637,09.03.2024,Munich,Meta Ads,1996,user1637@example.com
+U01694,2024-09-12,Cologne,Referral,1976,user1694@example.com
+U01668,2024-07-24,Hamburg,Google Ads,2006,user1668@example.com
+U01185,2024-07-12,Cologne,Meta Ads,1990,user1185@example.com
+U01391,2025-07-31,Munich,Referral,1990,user1391@example.com
+U01378,2024-11-29,Berlin,Organic,1992,user1378@example.com
+U01487,2024-04-23,Cologne,Meta Ads,1999,user1487@example.com
+U00519,2025-07-02,Cologne,TikTok Ads,1984,user519@example.com
+U01217,2025-01-05,Hamburg,Organic,1960,user1217@example.com
+U01231,2024-07-09,Frankfurt,TikTok Ads,1960,user1231@example.com
+U00304,2024-08-25,Munich,Organic,2004,user304@example.com
+U01924,2025-01-26,Cologne,TikTok Ads,1993,user1924@example.com
+U00857,2025-02-05,Frankfurt,TikTok Ads,1996,user857@example.com
+U01334,2024-09-22,Berlin,Meta Ads,1984,user1334@example.com
+U01029,2024-10-06,Cologne,Organic,1999,user1029@example.com
+U01557,2024-07-16,Munich,Meta Ads,1992,user1557@example.com
+U00234,02.07.2025,Hamburg,Organic,1990,user234@example.com
+U00775,2025-07-06,Berlin,Organic,1978,user775@example.com
+U01337,2025-11-12,Berlin,Organic,1960,user1337@example.com
+U00869,2024-11-11,Cologne,Organic,1962,user869@example.com
+U01914,2024-01-07,Berlin,Organic,1990,user1914@example.com
+U01662,2025-09-25,Frankfurt,Google Ads,1966,user1662@example.com
+U01388,2025-01-02,Hamburg,Referral,2004,user1388@example.com
+U01094,26.07.2025,Hamburg,Organic,1969,user1094@example.com
+U01892,2025-01-14,Munich,TikTok Ads,2003,user1892@example.com
+U00127,2025-09-29,Hamburg,TikTok Ads,1998,user127@example.com
+U00717,2024-08-03,Frankfurt,TikTok Ads,1964,user717@example.com
+U00194,2025-02-08,Munich,Meta Ads,1961,user194@example.com
+U01201,2024-03-12,Cologne,Referral,1983,user1201@example.com
+U01025,02.07.2024,Frankfurt,TikTok Ads,2001,user1025@example.com
+U00556,2025-05-16,Frankfurt,Google Ads,1970,user556@example.com
+U00900,2025-11-25,Cologne,Referral,1991,user900@example.com
+U00148,2025-11-24,Cologne,Referral,1962,user148@example.com
+U00270,2024-10-23,Frankfurt,Referral,1977,user270@example.com
+U01492,2025-05-03,Berlin,Referral,1999,user1492@example.com
+U00998,2024-03-09,Hamburg,Organic,1981,user998@example.com
+U00181,2024-03-09,Hamburg,Meta Ads,1963,user181@example.com
+U00082,2025-02-02,Frankfurt,Meta Ads,2001,user82@example.com
+U00007,2025-07-19,Cologne,Meta Ads,1998,user7@example.com
+U01437,2024-08-31,Berlin,Meta Ads,1971,user1437@example.com
+U00190,2024-11-15,Munich,Meta Ads,1994,user190@example.com
+U01489,2025-08-08,Hamburg,Google Ads,2003,user1489@example.com
+U00126,2024-01-02,Cologne,Referral,1992,user126@example.com
+U01834,2025-04-28,Berlin,Organic,1987,user1834@example.com
+U01393,2025-12-01,Hamburg,Referral,1962,user1393@example.com
+U01845,2025-04-06,Hamburg,Google Ads,1988,user1845@example.com
+U01483,2024-01-27,Cologne,Google Ads,1985,user1483@example.com
+U00405,2024-02-24,Frankfurt,TikTok Ads,1958,user405@example.com
+U01805,2024-04-09,Cologne,Google Ads,1975,user1805@example.com
+U00395,2025-06-12,Frankfurt,Meta Ads,1968,user395@example.com
+U01849,2024-02-21,Hamburg,Google Ads,2001,user1849@example.com
+U01298,2025-04-14,Hamburg,Google Ads,2000,user1298@example.com
+U00163,2025-07-04,Cologne,Organic,1987,user163@example.com
+U00103,2024-12-26,Munich,Referral,1975,user103@example.com
+U01371,2024-04-08,Cologne,Referral,1988,user1371@example.com
+U00478,2025-10-07,Hamburg,Organic,1992,user478@example.com
+U01732,2024-09-22,Hamburg,Meta Ads,2006,user1732@example.com
+U01926,2025-04-26,Frankfurt,Meta Ads,1960,user1926@example.com
+U01736,2024-10-29,Frankfurt,Organic,2003,user1736@example.com
+U00188,25.12.2024,Munich,Google Ads,1967,user188@example.com
+U01490,2025-06-18,Berlin,Meta Ads,1966,user1490@example.com
+U00167,2025-02-11,Berlin,Meta Ads,1965,user167@example.com
+U01093,2024-01-06,Hamburg,Meta Ads,1997,user1093@example.com
+U00285,2025-06-11,Cologne,Referral,1997,user285@example.com
+U01374,2025-04-19,Frankfurt,Referral,1999,user1374@example.com
+U00250,2024-05-26,Berlin,Meta Ads,2001,user250@example.com
+U00217,2025-06-04,Hamburg,Organic,1981,user217@example.com
+U01468,2024-04-25,Hamburg,Referral,1965,user1468@example.com
+U01381,2025-09-05,Berlin,Google Ads,1958,user1381@example.com
+U01569,2024-08-26,Munich,Google Ads,1982,user1569@example.com
+U01870,2024-05-06,Hamburg,Meta Ads,1971,user1870@example.com
+U00699,2024-05-03,Munich,Organic,1987,
+U00028,2024-01-08,Berlin,Referral,1998,user28@example.com
+U00020,2024-07-01,Cologne,TikTok Ads,1964,user20@example.com
+U00155,2024-04-02,Munich,TikTok Ads,1978,user155@example.com
+U00179,2025-03-16,Frankfurt,Organic,1972,user179@example.com
+U00486,2024-11-12,Munich,Google Ads,1960,user486@example.com
+U00316,2025-11-11,Berlin,TikTok Ads,2006,user316@example.com
+U01196,2024-11-07,Munich,Meta Ads,1986,user1196@example.com
+U01653,2025-11-26,Munich,Google Ads,2006,user1653@example.com
+U01586,2024-12-27,Munich,Google Ads,1973,user1586@example.com
+U00153,2025-10-13,Munich,Google Ads,1974,user153@example.com
+U00498,2025-01-22,Cologne,Meta Ads,1982,user498@example.com
+U00220,2025-09-03,Cologne,Meta Ads,1968,user220@example.com
+U01743,2024-07-22,Munich,Google Ads,1963,user1743@example.com
+U00048,2024-08-03,Cologne,Organic,1971,user48@example.com
+U01159,2024-10-13,Frankfurt,Meta Ads,1997,user1159@example.com
+U01043,2024-02-27,Berlin,Google Ads,1973,user1043@example.com
+U01113,2024-10-01,Hamburg,TikTok Ads,1985,user1113@example.com
+U00174,21.09.2025,Berlin,Google Ads,2000,user174@example.com
+U00922,2024-02-06,Frankfurt,Google Ads,2004,user922@example.com
+U01127,2024-01-15,Berlin,Meta Ads,1959,user1127@example.com
+U00547,2025-06-26,Munich,Referral,1961,user547@example.com
+U00577,2025-06-19,Munich,Organic,1997,user577@example.com
+U01002,2025-06-26,Munich,Google Ads,1962,user1002@example.com
+U01598,27.04.2024,Cologne,Google Ads,1960,user1598@example.com
+U01405,2025-05-19,Cologne,Meta Ads,1958,user1405@example.com
+U00710,2025-08-12,Hamburg,Referral,1992,user710@example.com
+U00272,2024-12-14,Hamburg,Organic,1978,user272@example.com
+U00701,2024-08-30,Frankfurt,Meta Ads,1997,user701@example.com
+U01735,2024-10-15,Munich,Organic,1994,user1735@example.com
+U00870,2024-12-01,Munich,TikTok Ads,2000,user870@example.com
+U01050,2024-04-04,Berlin,TikTok Ads,1995,user1050@example.com
+U00752,2024-07-13,Hamburg,Referral,1989,user752@example.com
+U01347,2024-10-27,Cologne,TikTok Ads,2003,user1347@example.com
+U00769,2024-05-21,Hamburg,Google Ads,1995,user769@example.com
+U00554,2024-05-12,Berlin,Referral,1990,user554@example.com
+U01453,2024-06-29,Cologne,Google Ads,1959,user1453@example.com
+U01718,2024-10-20,Munich,TikTok Ads,1965,user1718@example.com
+U01747,2025-10-07,Munich,Google Ads,1980,user1747@example.com
+U00963,2025-04-21,Berlin,TikTok Ads,1981,user963@example.com
+U01228,2024-04-13,Hamburg,TikTok Ads,2001,user1228@example.com
+U00780,2024-09-09,Cologne,Google Ads,1975,user780@example.com
+U00620,2024-03-25,Cologne,Google Ads,1968,user620@example.com
+U00040,2025-11-22,Munich,TikTok Ads,1983,user40@example.com
+U01927,2024-10-13,Hamburg,Referral,1995,user1927@example.com
+U01977,2024-04-23,Hamburg,Organic,2003,user1977@example.com
+U00065,2024-07-15,Cologne,TikTok Ads,1982,user65@example.com
+U00682,2024-09-01,Frankfurt,Referral,1968,user682@example.com
+U00165,2025-02-21,Frankfurt,Organic,1975,user165@example.com
+U01998,2025-07-28,Frankfurt,Google Ads,1994,user1998@example.com
+U01620,2024-09-14,Cologne,Meta Ads,1976,user1620@example.com
+U00083,2025-09-29,Berlin,Organic,1983,user83@example.com
+U01226,2024-10-28,Munich,TikTok Ads,1983,user1226@example.com
+U00887,2025-08-16,Berlin,Organic,1961,user887@example.com
+U01429,14.02.2025,Cologne,Meta Ads,1970,user1429@example.com
+U01995,2024-02-28,Hamburg,TikTok Ads,1975,user1995@example.com
+U01644,31.05.2024,Cologne,Referral,1987,user1644@example.com
+U00490,2024-04-13,Frankfurt,Organic,1978,user490@example.com
+U00107,2024-02-25,Frankfurt,Google Ads,2002,user107@example.com
+U00342,2025-09-10,Hamburg,Organic,1983,user342@example.com
+U00653,2025-02-19,Cologne,Google Ads,1980,user653@example.com
+U01003,2025-09-05,Hamburg,Referral,1992,user1003@example.com
+U01218,2025-06-29,Cologne,Google Ads,1958,user1218@example.com
+U01066,2025-08-21,Munich,Meta Ads,2005,user1066@example.com
+U00574,2025-09-17,Munich,Organic,1980,user574@example.com
+U01052,2024-11-03,Hamburg,TikTok Ads,1992,user1052@example.com
+U01847,2024-01-08,Cologne,Organic,2003,user1847@example.com
+U00518,2025-08-19,Berlin,Referral,1964,user518@example.com
+U00748,2024-12-22,Cologne,Meta Ads,1987,user748@example.com
+U00347,2024-08-23,Hamburg,Referral,1973,user347@example.com
+U01299,2024-03-09,Berlin,TikTok Ads,1984,user1299@example.com
+U01934,2024-05-02,Berlin,TikTok Ads,1985,user1934@example.com
+U01702,2024-02-12,Hamburg,Referral,1972,user1702@example.com
+U00727,2024-10-26,Cologne,Organic,1958,user727@example.com
+U00171,2024-06-27,Munich,TikTok Ads,1959,user171@example.com
+U00053,2025-01-08,Munich,Google Ads,1960,user53@example.com
+U01923,2024-08-01,Hamburg,Organic,1974,user1923@example.com
+U00404,2025-07-22,Frankfurt,TikTok Ads,1976,user404@example.com
+U00228,2024-02-24,Hamburg,Meta Ads,1981,user228@example.com
+U00307,2025-04-10,Munich,TikTok Ads,1992,user307@example.com
+U00807,2025-02-26,Berlin,Meta Ads,2000,user807@example.com
+U01613,2025-10-03,Munich,Referral,1986,user1613@example.com
+U00277,2024-04-02,Cologne,Referral,1990,user277@example.com
+U01903,2025-04-02,Munich,Meta Ads,1973,user1903@example.com
+U00142,2024-02-06,Munich,Google Ads,1973,user142@example.com
+U00758,2024-02-29,Hamburg,Google Ads,1975,user758@example.com
+U00175,2025-05-05,Frankfurt,Google Ads,1985,user175@example.com
+U01665,2025-01-01,Cologne,Meta Ads,1968,user1665@example.com
+U01769,2024-04-07,Munich,Google Ads,1971,user1769@example.com
+U01008,2025-04-16,Frankfurt,Referral,1965,user1008@example.com
+U01925,2025-03-26,Frankfurt,TikTok Ads,1964,user1925@example.com
+U00917,19.08.2024,Cologne,TikTok Ads,2002,user917@example.com
+U01833,2024-01-06,Frankfurt,Meta Ads,1980,user1833@example.com
+U00904,19.11.2025,Berlin,Organic,1962,user904@example.com
+U00743,2024-06-07,Cologne,Referral,1963,user743@example.com
+U01635,2025-07-29,Munich,Referral,1989,user1635@example.com
+U00350,2024-02-04,Berlin,Organic,1962,user350@example.com
+U01988,2024-08-19,Cologne,Meta Ads,1975,user1988@example.com
+U00777,2024-05-31,Cologne,Organic,1963,user777@example.com
+U00969,2025-04-13,Berlin,Google Ads,1983,user969@example.com
+U01317,2024-06-05,Frankfurt,Referral,1969,user1317@example.com
+U01549,2024-09-02,Munich,Organic,1972,user1549@example.com
+U00081,2025-07-13,Frankfurt,Google Ads,1972,user81@example.com
+U01197,2025-01-17,Frankfurt,TikTok Ads,1968,user1197@example.com
+U01615,14.07.2024,Berlin,Organic,1991,user1615@example.com
+U00301,2025-10-15,Berlin,Meta Ads,1964,user301@example.com
+U00233,2024-09-01,Frankfurt,TikTok Ads,1997,user233@example.com
+U00511,2025-03-04,Munich,Organic,2001,user511@example.com
+U00576,2025-11-25,Hamburg,TikTok Ads,2005,user576@example.com
+U00962,2025-06-11,Frankfurt,Referral,2001,user962@example.com
+U01132,2024-04-15,Frankfurt,TikTok Ads,2003,user1132@example.com
+U01173,2025-04-13,Munich,Organic,2003,user1173@example.com
+U00325,2025-10-31,Cologne,Meta Ads,1965,user325@example.com
+U01703,2024-01-17,Munich,Referral,1980,user1703@example.com
+U01091,2025-03-09,Berlin,Referral,1974,user1091@example.com
+U00243,2024-12-31,Berlin,Referral,1961,user243@example.com
+U00851,2024-02-17,Hamburg,Meta Ads,2000,
+U00335,2025-03-02,Frankfurt,Meta Ads,1977,user335@example.com
+U00312,2024-12-03,Hamburg,Meta Ads,2004,user312@example.com
+U00328,25.04.2024,Berlin,Meta Ads,2000,user328@example.com
+U01151,2024-09-08,Berlin,Referral,1988,user1151@example.com
+U01962,2024-12-23,Frankfurt,Organic,1963,user1962@example.com
+U00622,2024-07-29,Frankfurt,Google Ads,2002,user622@example.com
+U00594,2025-09-12,Cologne,Meta Ads,1990,user594@example.com
+U00359,2025-05-26,Berlin,TikTok Ads,1999,user359@example.com
+U00694,2025-09-25,Frankfurt,TikTok Ads,1964,user694@example.com
+U00973,2024-08-25,Hamburg,Referral,1991,user973@example.com
+U00915,2025-11-11,Cologne,Google Ads,1967,user915@example.com
+U00647,2025-06-10,Munich,Organic,1968,user647@example.com
+U00744,2025-10-02,Berlin,Meta Ads,1980,user744@example.com
+U00136,2025-08-08,Frankfurt,Organic,1984,user136@example.com
+U00630,2025-10-11,Hamburg,Google Ads,2001,user630@example.com
+U00437,2025-05-21,Cologne,Google Ads,1973,user437@example.com
+U01207,2024-12-27,Munich,Google Ads,1982,user1207@example.com
+U00416,2025-02-25,Munich,Meta Ads,1975,user416@example.com
+U00731,2024-05-19,Cologne,Organic,1998,user731@example.com
+U00642,2025-07-05,Berlin,Google Ads,2004,user642@example.com
+U00185,2024-04-20,Cologne,Meta Ads,1993,user185@example.com
+U00679,2024-10-20,Munich,Organic,1996,user679@example.com
+U01726,2024-06-04,Frankfurt,Organic,1995,user1726@example.com
+U00018,2024-01-12,Hamburg,Referral,1965,user18@example.com
+U00044,2024-04-12,Hamburg,Google Ads,1971,user44@example.com
+U00176,2024-03-23,Cologne,TikTok Ads,1967,user176@example.com
+U01331,2024-01-02,Hamburg,Organic,2002,user1331@example.com
+U01628,2024-12-28,Cologne,Google Ads,1984,user1628@example.com
+U01308,2024-09-05,Munich,Meta Ads,1961,user1308@example.com
+U01087,2025-05-21,Hamburg,Meta Ads,1985,user1087@example.com
+U00648,02.01.2025,Hamburg,Meta Ads,2006,user648@example.com
+U00997,2024-07-02,Hamburg,Organic,2002,
+U00268,2024-02-12,Cologne,Referral,1959,user268@example.com
+U01532,2025-06-19,Frankfurt,Referral,1979,user1532@example.com
+U00960,2025-01-29,Hamburg,TikTok Ads,1979,user960@example.com
+U01965,2025-11-15,Cologne,Meta Ads,1988,user1965@example.com
+U00843,2024-12-28,Frankfurt,TikTok Ads,1967,user843@example.com
+U00309,2024-01-15,Munich,TikTok Ads,1976,user309@example.com
+U01547,05.06.2024,Cologne,Organic,2003,user1547@example.com
+U01560,2025-04-23,Munich,Referral,1989,user1560@example.com
+U01783,2025-04-14,Berlin,Referral,1961,user1783@example.com
+U01461,2024-01-22,Berlin,Meta Ads,1958,user1461@example.com
+U01561,2024-06-26,Cologne,TikTok Ads,2003,user1561@example.com
+U00560,2024-04-28,Munich,Meta Ads,1982,user560@example.com
+U01746,2025-11-03,Frankfurt,Organic,1977,user1746@example.com
+U01163,24.01.2024,Hamburg,Organic,1992,user1163@example.com
+U01996,2024-12-02,Berlin,Organic,1974,user1996@example.com
+U00423,2024-02-17,Munich,Organic,1987,user423@example.com
+U01538,2024-12-25,Frankfurt,Google Ads,1987,user1538@example.com
+U00908,2024-04-23,Berlin,Organic,1974,user908@example.com
+U01604,2025-03-14,Munich,Google Ads,1969,user1604@example.com
+U01276,2024-07-29,Cologne,Referral,2003,user1276@example.com
+U01060,2025-10-24,Hamburg,Referral,1970,user1060@example.com
+U01645,2024-02-04,Hamburg,Meta Ads,2000,user1645@example.com
+U00321,2025-11-19,Berlin,Meta Ads,2004,user321@example.com
+U01130,2024-06-05,Frankfurt,TikTok Ads,1986,user1130@example.com
+U01294,2024-07-15,Munich,Meta Ads,1962,user1294@example.com
+U01248,2024-07-12,Berlin,Referral,1976,user1248@example.com
+U00409,2025-06-07,Hamburg,TikTok Ads,1965,user409@example.com
+U00105,2025-08-26,Munich,Referral,1991,user105@example.com
+U01846,2024-07-02,Berlin,Meta Ads,1992,user1846@example.com
+U00616,2025-11-15,Cologne,Meta Ads,1973,user616@example.com
+U01260,2024-09-13,Cologne,Meta Ads,2001,user1260@example.com
+U01984,2025-04-24,Hamburg,TikTok Ads,2004,
+U01800,11.02.2025,Berlin,TikTok Ads,2002,user1800@example.com
+U00964,2024-07-28,Frankfurt,TikTok Ads,1979,user964@example.com
+U01581,2024-02-23,Berlin,Referral,1960,user1581@example.com
+U00805,2024-05-17,Munich,Organic,1996,user805@example.com
+U00438,2025-01-04,Frankfurt,Referral,1966,user438@example.com
+U01520,2024-10-03,Frankfurt,Google Ads,1969,user1520@example.com
+U01830,2024-11-12,Munich,Organic,1967,user1830@example.com
+U00837,2025-10-17,Hamburg,TikTok Ads,1976,user837@example.com
+U01591,2024-07-26,Hamburg,TikTok Ads,1970,user1591@example.com
+U00949,2024-04-23,Munich,Referral,1987,user949@example.com
+U01960,2024-01-30,Frankfurt,Google Ads,1960,user1960@example.com
+U01348,2024-02-02,Cologne,Organic,1963,user1348@example.com
+U01876,2024-07-12,Cologne,Google Ads,1997,user1876@example.com
+U00392,2024-05-25,Frankfurt,Referral,1979,user392@example.com
+U00445,2025-04-09,Munich,Google Ads,1961,user445@example.com
+U01564,2025-08-03,Berlin,TikTok Ads,1998,user1564@example.com
+U01797,2024-08-06,Berlin,Meta Ads,1970,user1797@example.com
+U01086,2024-08-17,Hamburg,Referral,1970,user1086@example.com
+U01898,2025-05-08,Hamburg,Meta Ads,1982,user1898@example.com
+U00817,2024-04-02,Munich,Google Ads,2002,user817@example.com
+U00668,2024-04-10,Berlin,Referral,1974,user668@example.com
+U00692,2025-05-02,Munich,Organic,1971,user692@example.com
+U00745,2025-05-14,Frankfurt,Meta Ads,1993,user745@example.com
+U00950,2025-09-10,Cologne,TikTok Ads,1998,user950@example.com
+U01281,2025-04-13,Frankfurt,Google Ads,2000,user1281@example.com
+U00910,2024-06-14,Hamburg,Google Ads,1975,user910@example.com
+U00927,25.09.2025,Berlin,Referral,2002,
+U00944,2025-08-29,Hamburg,Meta Ads,1984,user944@example.com
+U00856,13.05.2024,Berlin,Organic,2001,user856@example.com
+U00863,2024-06-23,Berlin,Organic,1980,user863@example.com
+U01957,2025-01-15,Cologne,Meta Ads,1968,user1957@example.com
+U00427,2025-11-02,Cologne,Meta Ads,2019,user427@example.com
+U00723,2025-03-21,Frankfurt,TikTok Ads,1998,user723@example.com
+U00257,2024-03-07,Munich,Referral,1976,user257@example.com
+U01485,19.03.2024,Munich,TikTok Ads,1984,user1485@example.com
+U01670,2024-03-13,Cologne,Organic,1996,user1670@example.com
+U01109,2025-07-14,Munich,Organic,1982,user1109@example.com
+U00841,2025-04-18,Cologne,Referral,1984,user841@example.com
+U00942,2024-09-14,Berlin,TikTok Ads,2006,user942@example.com
+U00088,2024-01-21,Cologne,Meta Ads,1973,user88@example.com
+U00295,2025-05-10,Hamburg,Referral,1973,user295@example.com
+U00615,2025-06-27,Berlin,Google Ads,1993,user615@example.com
+U00885,2025-06-23,Berlin,TikTok Ads,2006,user885@example.com
+U01857,2024-04-29,Cologne,TikTok Ads,1994,user1857@example.com
+U00754,2024-07-01,Berlin,TikTok Ads,1970,user754@example.com
+U01992,2024-02-11,Cologne,Meta Ads,1974,user1992@example.com
+U00527,2024-02-29,Munich,Referral,1987,user527@example.com
+U00796,2024-03-30,Munich,Organic,1991,user796@example.com
+U00358,2025-02-19,Munich,Google Ads,1993,user358@example.com
+U00588,18.04.2024,Frankfurt,Google Ads,1968,user588@example.com
+U01734,2025-07-04,Hamburg,Meta Ads,1958,user1734@example.com
+U01790,2024-04-03,Berlin,Referral,1997,user1790@example.com
+U00738,2024-02-04,Munich,Organic,2005,user738@example.com
+U01409,2024-02-13,Cologne,Meta Ads,1968,user1409@example.com
+U00931,2024-08-06,Hamburg,Meta Ads,1995,user931@example.com
+U01355,2024-12-14,Hamburg,Meta Ads,1970,user1355@example.com
+U00982,2024-12-05,Cologne,Meta Ads,1976,user982@example.com
+U01593,2025-04-16,Hamburg,Referral,1959,user1593@example.com
+U00707,2024-04-11,Berlin,Organic,1961,user707@example.com
+U00513,2025-11-24,Munich,Meta Ads,1967,user513@example.com
+U01255,2025-03-31,Cologne,Referral,1972,user1255@example.com
+U01539,2025-01-18,Hamburg,Referral,1990,user1539@example.com
+U00487,2025-06-23,Munich,Referral,1979,user487@example.com
+U00921,2025-10-07,Munich,Meta Ads,1989,user921@example.com
+U01837,2024-08-15,Hamburg,TikTok Ads,1969,user1837@example.com
+U01262,2025-02-19,Cologne,Meta Ads,2006,user1262@example.com
+U01871,2024-06-11,Hamburg,Meta Ads,2005,user1871@example.com
+U00791,2024-11-19,Cologne,Organic,1996,user791@example.com
+U01171,2025-08-25,Frankfurt,Organic,1983,user1171@example.com
+U00976,2024-10-22,Munich,TikTok Ads,1961,user976@example.com
+U00041,31.08.2025,Cologne,Referral,1963,user41@example.com
+U00152,2025-05-23,Hamburg,Meta Ads,1976,user152@example.com
+U01118,2024-03-19,Berlin,Organic,1990,user1118@example.com
+U01155,2024-03-12,Frankfurt,Google Ads,1978,user1155@example.com
+U00073,2025-04-12,Cologne,Referral,1987,user73@example.com
+U01287,2024-11-30,Cologne,Meta Ads,1987,user1287@example.com
+U01872,2025-03-04,Berlin,Referral,1975,user1872@example.com
+U01721,2024-02-04,Munich,TikTok Ads,1959,user1721@example.com
+U01162,2025-07-07,Hamburg,Meta Ads,1963,user1162@example.com
+U01881,2024-02-01,Frankfurt,Meta Ads,1987,user1881@example.com
+U00120,13.09.2024,Cologne,TikTok Ads,1972,user120@example.com
+U01153,2025-03-07,Frankfurt,Organic,1966,user1153@example.com
+U00008,12.03.2024,Munich,Google Ads,1972,user8@example.com
+U01689,2024-02-02,Hamburg,Referral,1980,user1689@example.com
+U00013,2024-10-01,Frankfurt,Organic,1994,user13@example.com
+U00479,2025-07-11,Frankfurt,Referral,1980,user479@example.com
+U01895,2024-11-06,Cologne,Organic,1958,user1895@example.com
+U01336,2024-08-28,Hamburg,Google Ads,2001,
+U00079,2025-03-06,Cologne,Organic,1995,
+U01827,2024-04-20,Berlin,Meta Ads,1975,user1827@example.com
+U01535,27.10.2025,Cologne,TikTok Ads,1984,user1535@example.com
+U00348,2025-05-15,Hamburg,Meta Ads,1999,user348@example.com
+U01918,2024-07-15,Munich,Referral,1968,user1918@example.com
+U00036,2024-01-03,Hamburg,Organic,1974,user36@example.com
+U01512,2025-04-05,Berlin,Meta Ads,2001,user1512@example.com
+U01061,2025-11-05,Frankfurt,Google Ads,1999,user1061@example.com
+U00840,2024-02-06,Cologne,Referral,1988,user840@example.com
+U01763,2024-07-17,Berlin,Referral,1977,user1763@example.com
+U01390,2024-05-26,Munich,Referral,1962,user1390@example.com
+U00117,2024-05-25,Cologne,Referral,1968,user117@example.com
+U00651,2024-09-26,Hamburg,TikTok Ads,1994,user651@example.com
+U01987,2024-06-12,Hamburg,Google Ads,1983,user1987@example.com
+U00294,2025-11-23,Hamburg,TikTok Ads,2004,user294@example.com
+U00330,2024-02-15,Berlin,Meta Ads,1972,user330@example.com
+U01656,2025-10-08,Frankfurt,Meta Ads,1969,user1656@example.com
+U00590,2024-07-14,Cologne,Google Ads,1964,user590@example.com
+U01083,2025-04-18,Cologne,Organic,2002,user1083@example.com
+U01233,2025-04-25,Cologne,TikTok Ads,1979,user1233@example.com
+U01879,2025-07-19,Hamburg,Meta Ads,1970,user1879@example.com
+U01638,2024-04-16,Berlin,Referral,1990,user1638@example.com
+U01621,2024-03-29,Cologne,Google Ads,1967,user1621@example.com
+U00052,2024-02-06,Berlin,Referral,1995,user52@example.com
+U01852,2024-06-28,Frankfurt,Organic,1964,user1852@example.com
+U00688,2025-05-10,Frankfurt,TikTok Ads,2006,user688@example.com
+U01711,2025-08-11,Cologne,Google Ads,2004,user1711@example.com
+U01840,2025-03-11,Berlin,Referral,1977,user1840@example.com
+U00377,2024-04-19,Cologne,Organic,1958,user377@example.com
+U00462,2024-03-27,Berlin,TikTok Ads,1990,user462@example.com
+U01853,2024-10-08,Cologne,TikTok Ads,1987,user1853@example.com
+U01036,2025-04-05,Munich,TikTok Ads,1982,user1036@example.com
+U00598,2025-10-27,Hamburg,Google Ads,1969,user598@example.com
+U00314,2024-04-30,Munich,Organic,1976,user314@example.com
+U00779,2025-07-26,Cologne,TikTok Ads,1983,user779@example.com
+U00802,2025-03-29,Munich,Google Ads,1998,user802@example.com
+U00116,2025-10-02,Munich,Referral,1970,user116@example.com
+U01320,2025-02-18,Frankfurt,Referral,1983,user1320@example.com
+U01979,2025-06-07,Hamburg,TikTok Ads,2001,
+U00947,2025-09-16,Munich,Referral,1982,user947@example.com
+U00718,25.02.2024,Berlin,Referral,1983,user718@example.com
+U00360,2024-02-13,Berlin,Google Ads,2002,user360@example.com
+U00514,2024-08-04,Frankfurt,Meta Ads,1966,user514@example.com
+U00700,2025-08-17,Cologne,Referral,1981,user700@example.com
+U00313,2024-03-04,Cologne,Referral,1987,user313@example.com
+U00030,2025-08-13,Berlin,Organic,1988,user30@example.com
+U01165,06.05.2024,Cologne,Google Ads,1999,user1165@example.com
+U00090,2024-11-14,Frankfurt,Organic,1959,user90@example.com
+U00652,2025-10-31,Munich,TikTok Ads,1962,user652@example.com
+U00431,2024-03-11,Hamburg,Meta Ads,1958,user431@example.com
+U00388,2025-07-30,Hamburg,Organic,2001,user388@example.com
+U01032,25.11.2025,Munich,Referral,1969,user1032@example.com
+U01688,2024-02-15,Berlin,Referral,1982,user1688@example.com
+U00085,2024-11-30,Frankfurt,Referral,1982,user85@example.com
+U01223,2025-09-26,Berlin,Google Ads,1964,user1223@example.com
+U00906,2024-02-28,Cologne,Google Ads,2000,user906@example.com
+U00293,2025-01-20,Cologne,Referral,1969,user293@example.com
+U00898,2025-05-02,Frankfurt,Organic,2006,user898@example.com
+U01497,2024-04-05,Frankfurt,TikTok Ads,1958,user1497@example.com
+U01261,2025-07-10,Hamburg,Organic,1958,user1261@example.com
+U00893,2024-06-27,Munich,Referral,2005,user893@example.com
+U00496,02.04.2025,Hamburg,Google Ads,1971,user496@example.com
+U00139,2025-06-22,Munich,Google Ads,1958,user139@example.com
+U00172,27.11.2024,Cologne,Google Ads,1974,user172@example.com
+U01674,2025-01-31,Cologne,Meta Ads,2002,user1674@example.com
+U00795,2024-01-31,Frankfurt,Meta Ads,1975,user795@example.com
+U00078,2024-08-07,Berlin,Meta Ads,1984,user78@example.com
+U00469,09.06.2025,Berlin,Organic,1977,user469@example.com
+U01933,2024-12-07,Berlin,Meta Ads,2003,user1933@example.com
+U00224,2025-05-29,Munich,Referral,1968,user224@example.com
+U00981,2025-05-26,Cologne,TikTok Ads,1987,user981@example.com
+U00961,2025-07-09,Hamburg,Google Ads,1971,user961@example.com
+U00074,2025-03-29,Cologne,Organic,2004,user74@example.com
+U01602,2025-09-29,Munich,Referral,1977,user1602@example.com
+U00261,2025-02-23,Berlin,Organic,1962,user261@example.com
+U01552,2024-04-05,Berlin,Organic,1981,user1552@example.com
+U01529,2025-09-07,Cologne,Google Ads,1980,user1529@example.com
+U01137,2024-10-21,Munich,TikTok Ads,1988,user1137@example.com
+U00178,2024-04-11,Cologne,Meta Ads,1965,user178@example.com
+U00414,2025-08-06,Hamburg,Referral,1975,user414@example.com
+U00809,2025-02-18,Hamburg,Organic,1996,user809@example.com
+U01700,2025-05-21,Berlin,Meta Ads,1998,user1700@example.com
+U00223,2025-01-11,Hamburg,Organic,1994,user223@example.com
+U01940,2024-12-13,Berlin,Organic,2002,user1940@example.com
+U01738,2024-03-21,Cologne,Referral,1972,user1738@example.com
+U01410,2024-06-28,Frankfurt,Organic,1966,user1410@example.com
+U00587,2024-12-15,Cologne,Referral,1998,user587@example.com
+U01099,2025-11-04,Munich,Meta Ads,1986,user1099@example.com
+U00584,2025-09-25,Frankfurt,Referral,1990,user584@example.com
+U01919,2025-06-12,Hamburg,Meta Ads,1999,user1919@example.com
+U01786,2024-09-17,Munich,Google Ads,1999,user1786@example.com
+U00526,2025-02-17,Munich,Meta Ads,1991,
+U01601,2025-10-14,Munich,TikTok Ads,1996,
+U00671,2025-01-05,Cologne,Organic,1985,user671@example.com
+U01100,2024-02-06,Frankfurt,Google Ads,1968,user1100@example.com
+U00376,2024-09-14,Munich,Organic,2004,user376@example.com
+U00137,2025-11-10,Berlin,Meta Ads,1999,user137@example.com
+U01001,2024-10-06,Hamburg,Referral,1998,user1001@example.com
+U00326,2024-08-16,Cologne,Organic,2006,user326@example.com
+U00237,2024-01-21,Hamburg,Referral,1988,user237@example.com
+U00235,2024-01-02,Berlin,TikTok Ads,1973,user235@example.com
+U01306,2025-03-30,Berlin,TikTok Ads,1979,user1306@example.com
+U00145,2025-03-17,Munich,Meta Ads,1991,user145@example.com
+U00457,2025-04-20,Cologne,Meta Ads,1989,user457@example.com
+U01413,2024-08-10,Frankfurt,TikTok Ads,1999,user1413@example.com
+U01358,2025-11-10,Frankfurt,Referral,1972,
+U01810,2024-10-07,Berlin,TikTok Ads,1965,user1810@example.com
+U00920,2024-06-29,Frankfurt,Google Ads,1982,user920@example.com
+U01426,2025-09-24,Berlin,Referral,1990,user1426@example.com
+U01523,2024-12-23,Munich,Organic,1988,user1523@example.com
+U00810,2025-09-18,Berlin,TikTok Ads,1994,user810@example.com
+U01419,2024-06-14,Munich,Google Ads,2005,user1419@example.com
+U01284,2024-04-17,Munich,TikTok Ads,1978,user1284@example.com
+U00022,2025-09-05,Hamburg,Meta Ads,1959,user22@example.com
+U01230,2024-05-09,Cologne,Organic,1974,user1230@example.com
+U00817,2024-04-02,Munich,Google Ads,2002,user817@example.com
+U01000,2024-02-29,Munich,Google Ads,1987,user1000@example.com
+U01932,2025-04-01,Frankfurt,Referral,1971,user1932@example.com
+U00570,2024-10-01,Berlin,Organic,1963,user570@example.com
+U01541,2024-06-06,Hamburg,Meta Ads,1991,user1541@example.com
+U01715,2024-03-22,Frankfurt,TikTok Ads,1990,user1715@example.com
+U00852,2024-11-24,Frankfurt,Google Ads,1976,user852@example.com
+U00021,2024-07-22,Cologne,Google Ads,2006,user21@example.com
+U01414,14.05.2025,Hamburg,Google Ads,1958,user1414@example.com
+U00839,2025-09-22,Frankfurt,Organic,1969,user839@example.com
+U00559,30.09.2025,Berlin,Google Ads,1961,user559@example.com
+U01339,2025-03-15,Munich,Referral,2001,user1339@example.com
+U00420,18.08.2025,Hamburg,Google Ads,2004,user420@example.com
+U01745,2024-09-26,Frankfurt,TikTok Ads,1998,user1745@example.com
+U01545,2024-05-01,Hamburg,TikTok Ads,1983,user1545@example.com
+U01169,2025-04-10,Berlin,Google Ads,2003,user1169@example.com
+U01394,2024-05-29,Munich,Organic,1972,user1394@example.com
+U00866,2024-03-08,Frankfurt,TikTok Ads,2002,user866@example.com
+U00529,2025-01-16,Cologne,TikTok Ads,1986,user529@example.com
+U01720,2024-05-03,Berlin,Meta Ads,2006,user1720@example.com
+U01955,2024-02-16,Cologne,Meta Ads,1973,
+U01583,2025-04-16,Frankfurt,Organic,1978,user1583@example.com
+U01227,2025-11-06,Cologne,TikTok Ads,1987,user1227@example.com
+U00291,2024-11-17,Cologne,Organic,1984,user291@example.com
+U00320,2024-02-26,Cologne,Organic,1990,user320@example.com
+U01525,2024-03-20,Hamburg,Google Ads,1995,user1525@example.com
+U00824,2025-02-23,Cologne,Referral,1996,user824@example.com
+U00762,2024-06-19,Munich,TikTok Ads,1993,user762@example.com
+U00468,2024-02-11,Hamburg,Organic,1978,user468@example.com
+U00799,2024-11-12,Munich,TikTok Ads,1991,user799@example.com
+U01622,2024-10-24,Frankfurt,Organic,1988,user1622@example.com
+U00678,2024-03-22,Cologne,TikTok Ads,2004,user678@example.com
+U01572,2024-02-20,Berlin,Google Ads,1989,user1572@example.com
+U00493,2024-06-30,Cologne,Google Ads,2002,user493@example.com
+U01647,2025-05-30,Munich,Meta Ads,2003,user1647@example.com
+U00595,2024-10-07,Munich,Meta Ads,1979,user595@example.com
+U01588,2024-07-11,Cologne,TikTok Ads,1979,user1588@example.com
+U01412,2024-10-24,Cologne,Organic,1976,
+U00422,2024-12-11,Hamburg,Google Ads,1966,user422@example.com
+U00782,02.11.2025,Frankfurt,TikTok Ads,1977,user782@example.com
+U00093,2024-03-11,Frankfurt,Google Ads,1979,user93@example.com
+U00032,2025-02-16,Frankfurt,Meta Ads,1964,user32@example.com
+U01595,2025-03-17,Berlin,Organic,1961,user1595@example.com
+U01312,2024-03-21,Munich,Organic,1987,user1312@example.com
+U01518,2025-10-17,Frankfurt,Google Ads,1994,user1518@example.com
+U00424,12.04.2025,Munich,Referral,1985,user424@example.com
+U01015,2025-08-24,Munich,Referral,1969,
+U00417,2024-05-29,Frankfurt,Meta Ads,1973,user417@example.com
+U01463,2024-04-18,Munich,Organic,1979,user1463@example.com
+U00150,2025-05-09,Hamburg,Google Ads,1982,user150@example.com
+U01824,2024-11-09,Cologne,Organic,1992,
+U01460,2025-06-23,Frankfurt,Organic,2006,user1460@example.com
+U00454,2024-05-02,Berlin,Organic,1961,user454@example.com
+U00381,2025-01-20,Munich,TikTok Ads,1983,user381@example.com
+U00937,2025-09-18,Frankfurt,Google Ads,1998,user937@example.com
+U01568,2024-01-10,Cologne,Referral,1958,user1568@example.com
+U00440,2025-08-24,Frankfurt,TikTok Ads,1974,user440@example.com
+U00092,2024-05-03,Frankfurt,Referral,1994,user92@example.com
+U01526,2024-06-03,Frankfurt,Referral,1967,user1526@example.com
+U01395,2024-04-17,Hamburg,TikTok Ads,1965,user1395@example.com
+U00760,2024-07-16,Cologne,TikTok Ads,1973,user760@example.com
+U01712,2025-09-13,Munich,TikTok Ads,1991,user1712@example.com
+U00366,2025-09-01,Frankfurt,Organic,1978,user366@example.com
+U01074,2025-10-08,Berlin,Organic,1999,user1074@example.com
+U01042,2025-10-02,Frankfurt,Referral,1964,user1042@example.com
+U00889,2024-10-23,Cologne,Referral,2002,user889@example.com
+U01402,2025-05-29,Munich,Referral,1985,user1402@example.com
+U00108,2024-01-13,Berlin,Referral,1988,user108@example.com
+U01102,2024-05-06,Munich,TikTok Ads,1971,user1102@example.com
+U01972,2025-10-05,Frankfurt,TikTok Ads,1994,user1972@example.com
+U01522,2024-02-25,Munich,Meta Ads,1985,user1522@example.com
+U01896,2025-05-03,Cologne,TikTok Ads,1968,user1896@example.com
+U00621,2025-10-03,Frankfurt,Google Ads,2000,user621@example.com
+U00097,2024-10-12,Frankfurt,Referral,1973,user97@example.com
+U00058,2024-01-25,Hamburg,Referral,1983,user58@example.com
+U01095,2024-05-15,Berlin,Referral,2003,user1095@example.com
+U00099,2024-10-13,Cologne,Meta Ads,2002,user99@example.com
+U01803,2024-01-30,Munich,Google Ads,2003,user1803@example.com
+U01313,2024-06-29,Munich,Referral,1977,user1313@example.com
+U00356,2025-02-10,Munich,Referral,1983,user356@example.com
+U01112,2025-01-02,Frankfurt,Organic,1981,user1112@example.com
+U01170,2025-03-11,Cologne,Organic,1988,user1170@example.com
+U01722,2025-06-26,Cologne,Meta Ads,1985,user1722@example.com
+U00629,2024-06-09,Cologne,Referral,1966,user629@example.com
+U01964,2025-05-02,Hamburg,TikTok Ads,1974,user1964@example.com
+U01578,2025-05-20,Berlin,Google Ads,1965,user1578@example.com
+U01576,2025-04-26,Hamburg,Organic,1984,user1576@example.com
+U01081,2024-10-15,Frankfurt,TikTok Ads,1984,user1081@example.com
+U00113,2024-07-31,Munich,TikTok Ads,1974,user113@example.com
+U01997,2024-09-05,Berlin,Organic,1972,user1997@example.com
+U01401,2025-11-25,Hamburg,Organic,2003,user1401@example.com
+U00589,2024-09-17,Munich,Organic,1970,user589@example.com
+U01599,2024-10-09,Frankfurt,Google Ads,1997,user1599@example.com
+U01963,2025-03-01,Berlin,Referral,1992,user1963@example.com
+U01590,2024-05-13,Cologne,TikTok Ads,1981,user1590@example.com
+U01727,2024-11-24,Berlin,Meta Ads,1990,user1727@example.com
+U00992,2024-03-08,Frankfurt,Referral,1995,user992@example.com
+U01150,2025-10-24,Frankfurt,Google Ads,1966,user1150@example.com
+U01890,2024-09-23,Hamburg,TikTok Ads,2002,user1890@example.com
+U00214,2024-12-07,Frankfurt,Meta Ads,2000,user214@example.com
+U01007,2025-06-22,Berlin,Organic,2003,user1007@example.com
+U00049,2024-09-14,Hamburg,Google Ads,1961,user49@example.com
+U01005,2024-10-15,Munich,Google Ads,1989,user1005@example.com
+U01885,2025-09-13,Berlin,Referral,1992,user1885@example.com
+U00773,2024-12-22,Munich,TikTok Ads,1985,user773@example.com
+U00892,2024-05-15,Berlin,TikTok Ads,1975,
+U01577,2024-03-22,Hamburg,Organic,1978,user1577@example.com
+U00874,2024-04-01,Munich,Referral,1997,user874@example.com
+U01283,2024-08-10,Hamburg,Google Ads,1984,user1283@example.com
+U00600,2024-10-19,Berlin,Organic,1985,user600@example.com
+U00406,2025-06-01,Frankfurt,Organic,1984,user406@example.com
+U01589,2024-11-16,Cologne,Google Ads,1977,user1589@example.com
+U00278,19.02.2024,Frankfurt,Referral,1989,user278@example.com
+U01563,2025-09-02,Frankfurt,Meta Ads,1978,user1563@example.com
+U00579,25.02.2024,Frankfurt,Meta Ads,1968,user579@example.com
+U00412,2024-04-30,Hamburg,TikTok Ads,1973,user412@example.com
+U01318,2025-01-19,Frankfurt,Meta Ads,1988,user1318@example.com
+U01119,2025-11-07,Cologne,Google Ads,1974,user1119@example.com
+U01551,2024-04-15,Hamburg,Meta Ads,1996,user1551@example.com
+U00808,2025-03-25,Munich,Organic,1989,user808@example.com
+U01069,2025-11-30,Hamburg,Organic,1975,user1069@example.com
+U01090,2025-04-25,Munich,Organic,1978,user1090@example.com
+U01815,2025-02-27,Hamburg,Referral,1970,user1815@example.com
+U01178,2024-05-05,Cologne,Referral,1962,user1178@example.com
+U01640,2025-09-19,Berlin,Meta Ads,2000,user1640@example.com
+U01080,2025-04-07,Cologne,Referral,2005,user1080@example.com
+U00657,2025-10-24,Cologne,Meta Ads,1959,user657@example.com
+U01342,2025-09-08,Munich,Referral,1991,user1342@example.com
+U01908,2024-04-29,Munich,TikTok Ads,1988,user1908@example.com
+U00187,2025-11-04,Hamburg,Referral,1975,user187@example.com
+U01065,2024-09-14,Hamburg,Referral,1963,user1065@example.com
+U00443,2024-07-27,Berlin,Referral,1967,user443@example.com
+U01780,2025-06-15,Munich,Meta Ads,1988,user1780@example.com
+U01724,2024-12-29,Frankfurt,Referral,1984,user1724@example.com
+U01450,2025-07-01,Hamburg,Referral,1999,user1450@example.com
+U01351,2024-11-30,Frankfurt,Google Ads,1975,user1351@example.com
+U00984,2024-05-22,Munich,Organic,1965,user984@example.com
+U00121,2024-01-22,Munich,Organic,2001,user121@example.com
+U01723,2024-10-27,Berlin,Google Ads,1979,user1723@example.com
+U00086,2024-03-24,Hamburg,Meta Ads,2005,user86@example.com
+U00828,2025-07-29,Berlin,Google Ads,1987,user828@example.com
+U00386,10.07.2025,Cologne,Google Ads,1981,user386@example.com
+U01947,29.12.2024,Berlin,Organic,1986,user1947@example.com
+U00491,2025-10-26,Cologne,Referral,2003,user491@example.com
+U00290,2025-11-28,Berlin,Organic,1994,user290@example.com
+U00749,2024-03-11,Hamburg,Organic,1986,user749@example.com
+U00505,2025-11-08,Munich,Referral,1988,
+U00693,2024-07-23,Munich,Meta Ads,1973,user693@example.com
+U00135,2024-12-06,Munich,Meta Ads,1992,user135@example.com
+U01136,2025-05-21,Berlin,Meta Ads,1999,user1136@example.com
+U01370,2024-04-14,Munich,Google Ads,1967,user1370@example.com
+U00239,2024-12-06,Munich,Organic,1980,user239@example.com
+U00918,2025-01-02,Berlin,Referral,1977,user918@example.com
+U00797,2024-09-03,Hamburg,Organic,1985,user797@example.com
+U01878,2025-08-05,Cologne,Organic,2001,user1878@example.com
+U01349,2024-06-21,Munich,Meta Ads,1965,user1349@example.com
+U00932,2025-03-01,Cologne,Google Ads,1981,user932@example.com
+U01943,2025-10-31,Cologne,Meta Ads,1994,user1943@example.com
+U01256,2025-03-12,Hamburg,Referral,1985,user1256@example.com
+U01877,2025-09-05,Munich,Meta Ads,1984,user1877@example.com
+U01236,2024-07-12,Hamburg,TikTok Ads,2002,user1236@example.com
+U00396,2025-02-18,Berlin,TikTok Ads,1969,user396@example.com
+U01020,2024-07-04,Frankfurt,Google Ads,1982,user1020@example.com
+U00205,2024-11-26,Frankfurt,Organic,1998,user205@example.com
+U00343,2025-04-22,Frankfurt,Organic,1980,user343@example.com
+U01062,2024-02-26,Berlin,Organic,1963,user1062@example.com
+U01209,2025-11-27,Hamburg,Meta Ads,1980,user1209@example.com
+U00370,2025-03-31,Frankfurt,Organic,1975,user370@example.com
+U01801,2024-02-01,Frankfurt,Meta Ads,1988,user1801@example.com
+U00715,2025-03-31,Frankfurt,Organic,1981,user715@example.com
+U00221,24.03.2025,Frankfurt,TikTok Ads,1981,user221@example.com
+U00597,2025-07-20,Hamburg,Meta Ads,1970,user597@example.com
+U00639,2024-01-05,Hamburg,Referral,1972,user639@example.com
+U00247,2025-11-07,Frankfurt,Referral,1986,user247@example.com
+U01101,2025-03-28,Berlin,Meta Ads,2003,user1101@example.com
+U00080,03.05.2025,Frankfurt,TikTok Ads,1980,user80@example.com
+U01275,2024-04-23,Munich,Meta Ads,1984,user1275@example.com
+U00063,2025-03-17,Berlin,Referral,2000,user63@example.com
+U00912,2025-02-06,Frankfurt,Meta Ads,1989,user912@example.com
+U00305,2024-06-29,Frankfurt,Meta Ads,1960,user305@example.com
+U01807,12.06.2025,Berlin,Google Ads,2000,user1807@example.com
+U01680,2024-09-13,Hamburg,Meta Ads,1971,user1680@example.com
+U01582,2024-12-03,Munich,TikTok Ads,1982,user1582@example.com
+U01768,2025-04-02,Munich,Google Ads,1994,user1768@example.com
+U00903,2024-07-18,Cologne,Google Ads,2001,user903@example.com
+U00363,2024-06-15,Cologne,Referral,1994,user363@example.com
+U01816,2025-03-26,Cologne,Organic,1989,user1816@example.com
+U00767,05.11.2024,Hamburg,TikTok Ads,1972,user767@example.com
+U01229,2024-07-16,Munich,TikTok Ads,1958,user1229@example.com
+U00317,2025-04-02,Berlin,TikTok Ads,1981,user317@example.com
+U01400,2024-05-26,Hamburg,Meta Ads,2005,user1400@example.com
+U00199,2024-01-22,Hamburg,Google Ads,1968,user199@example.com
+U00708,2024-12-08,Hamburg,Referral,1981,user708@example.com
+U00448,2024-01-31,Cologne,Google Ads,1985,user448@example.com
+U01804,2025-03-05,Berlin,Referral,1965,user1804@example.com
+U00373,2024-03-27,Cologne,TikTok Ads,1993,user373@example.com
+U01021,2024-11-17,Hamburg,Referral,1965,user1021@example.com
+U01272,30.06.2024,Munich,Google Ads,2002,
+U01304,2024-08-30,Munich,Referral,2006,user1304@example.com
+U00387,2024-04-21,Cologne,Google Ads,2000,user387@example.com
+U00354,20.10.2024,Munich,Google Ads,2002,user354@example.com
+U00143,2025-03-20,Frankfurt,Meta Ads,2006,user143@example.com
+U00768,2025-06-07,Hamburg,Meta Ads,1994,user768@example.com
+U01154,2025-06-12,Berlin,TikTok Ads,1981,user1154@example.com
+U01848,21.03.2025,Frankfurt,Referral,1976,user1848@example.com
+U01639,2025-02-18,Cologne,Referral,1969,user1639@example.com
+U01856,14.02.2025,Berlin,Organic,2005,user1856@example.com
+U00628,2024-10-15,Berlin,Organic,1986,user628@example.com
+U00788,2024-09-18,Hamburg,Google Ads,1976,user788@example.com
+U00670,2025-06-19,Hamburg,Organic,1958,user670@example.com
+U00010,2025-11-17,Munich,TikTok Ads,2001,user10@example.com
+U01860,06.10.2024,Munich,Referral,1971,user1860@example.com
+U01084,2025-09-06,Cologne,Google Ads,1963,user1084@example.com
+U00004,2025-08-26,Frankfurt,Referral,1958,user4@example.com
+U01936,2024-11-30,Berlin,Google Ads,1989,user1936@example.com
+U00196,2025-01-24,Hamburg,Google Ads,1972,user196@example.com
+U00765,2025-07-12,Frankfurt,Organic,1993,user765@example.com
+U01071,2025-11-18,Hamburg,Google Ads,1993,user1071@example.com
+U00122,2025-06-15,Frankfurt,Google Ads,1975,user122@example.com
+U01141,2024-07-23,Frankfurt,Referral,1989,user1141@example.com
+U00125,2025-04-10,Frankfurt,TikTok Ads,1974,user125@example.com
+U01242,2024-01-31,Munich,Referral,1976,user1242@example.com
+U00042,2024-09-24,Munich,Referral,2003,user42@example.com
+U00528,2025-01-12,Berlin,Meta Ads,1990,user528@example.com
+U01073,2024-11-04,Munich,Organic,2006,user1073@example.com
+U01697,18.04.2025,Frankfurt,TikTok Ads,1958,user1697@example.com
+U01540,2025-02-28,Berlin,Google Ads,1958,user1540@example.com
+U01906,2024-11-06,Frankfurt,Organic,1972,user1906@example.com
+U00696,2024-11-18,Cologne,Referral,1994,user696@example.com
+U00168,2025-10-19,Munich,TikTok Ads,1959,user168@example.com
+U01297,2024-12-31,Frankfurt,Meta Ads,1958,user1297@example.com
+U01326,2024-01-13,Frankfurt,TikTok Ads,1963,user1326@example.com
+U00720,2024-10-17,Berlin,Google Ads,1966,user720@example.com
+U00465,2024-07-26,Frankfurt,Organic,1995,user465@example.com
+U00411,2024-10-31,Berlin,Organic,1960,user411@example.com
+U00823,2024-01-06,Frankfurt,Organic,1989,user823@example.com
+U00534,2025-10-20,Munich,Organic,1982,user534@example.com
+U00378,2024-12-03,Cologne,Meta Ads,1985,user378@example.com
+U01913,2025-11-25,Munich,Organic,1977,user1913@example.com
+U01976,2025-01-09,Munich,Organic,1959,user1976@example.com
+U01759,2024-04-14,Berlin,Meta Ads,1989,user1759@example.com
+U00882,2024-08-19,Munich,TikTok Ads,1996,user882@example.com
+U01946,2025-11-04,Munich,Meta Ads,1977,user1946@example.com
+U00364,2025-01-28,Berlin,TikTok Ads,1966,user364@example.com
+U00728,2025-02-08,Frankfurt,Meta Ads,2003,user728@example.com
+U00638,2025-08-21,Frankfurt,Meta Ads,1994,user638@example.com
+U00197,2025-02-10,Berlin,Referral,1960,user197@example.com
+U00375,2024-03-05,Berlin,Referral,1975,user375@example.com
+U00704,2025-07-22,Munich,Organic,1982,user704@example.com
+U00284,2024-02-09,Munich,TikTok Ads,1979,user284@example.com
+U00972,2024-12-21,Berlin,Google Ads,2005,user972@example.com
+U01427,2024-09-10,Berlin,TikTok Ads,1985,user1427@example.com
+U00781,2024-04-25,Hamburg,TikTok Ads,1985,user781@example.com
+U00835,2024-08-26,Berlin,Meta Ads,1900,user835@example.com
+U01968,2024-12-02,Cologne,Referral,1987,user1968@example.com
+U00794,2024-08-29,Hamburg,Organic,1990,user794@example.com
+U01404,2024-03-19,Hamburg,TikTok Ads,1963,user1404@example.com
+U01436,2025-01-04,Cologne,Referral,1981,user1436@example.com
+U01176,2025-01-15,Munich,Meta Ads,1981,user1176@example.com
+U00827,2024-02-20,Cologne,TikTok Ads,1969,user827@example.com
+U00193,2024-10-17,Berlin,Meta Ads,1995,user193@example.com
+U01974,2024-12-11,Frankfurt,TikTok Ads,1969,user1974@example.com
+U00680,25.03.2025,Munich,Google Ads,2000,user680@example.com
+U00245,2025-05-23,Berlin,Organic,1981,user245@example.com
+U01493,2025-10-24,Cologne,Referral,1975,user1493@example.com
+U01014,2024-11-04,Cologne,Meta Ads,2006,user1014@example.com
+U01330,2024-08-02,Munich,Organic,1983,
+U00061,2025-03-22,Munich,Referral,1990,user61@example.com
+U00372,2025-09-03,Frankfurt,Organic,1978,
+U00368,2025-09-25,Munich,Organic,1973,user368@example.com
+U01555,2025-11-06,Hamburg,Referral,1996,user1555@example.com
+U01585,2024-11-25,Hamburg,Google Ads,1988,user1585@example.com
+U01232,2025-10-29,Munich,Meta Ads,1977,user1232@example.com
+U00902,2024-09-18,Munich,TikTok Ads,1983,user902@example.com
+U00399,2024-09-25,Cologne,Organic,1989,user399@example.com
+U01501,2024-06-04,Munich,Meta Ads,1963,user1501@example.com
+U00331,2025-05-30,Hamburg,TikTok Ads,1972,user331@example.com
+U01496,2025-08-06,Berlin,Referral,1994,user1496@example.com
+U00848,2025-06-20,Cologne,Meta Ads,1978,user848@example.com
+U01085,2024-01-15,Frankfurt,Google Ads,1985,user1085@example.com
+U01766,2025-06-30,Frankfurt,Referral,1982,user1766@example.com
+U01258,2024-10-28,Hamburg,Meta Ads,1990,user1258@example.com
+U00146,2024-06-28,Cologne,Meta Ads,1982,user146@example.com
+U01587,2024-03-17,Frankfurt,Organic,1961,user1587@example.com
+U00246,2024-03-21,Berlin,Referral,1969,user246@example.com
+U01204,02.12.2024,Cologne,Organic,2002,user1204@example.com
+U00734,2024-01-16,Frankfurt,Referral,1979,user734@example.com
+U00371,2025-07-24,Cologne,Google Ads,1984,user371@example.com
+U01459,2024-07-11,Frankfurt,Google Ads,1962,user1459@example.com
+U01785,2024-10-18,Cologne,Organic,1985,user1785@example.com
+U01249,2024-05-09,Berlin,Organic,1995,user1249@example.com
+U00014,2025-10-20,Cologne,Referral,1974,user14@example.com
+U00645,2024-08-16,Frankfurt,TikTok Ads,1995,user645@example.com
+U01202,2025-03-18,Hamburg,Referral,1990,user1202@example.com
+U01396,2025-05-16,Cologne,Referral,1980,user1396@example.com
+U01106,06.06.2024,Frankfurt,Referral,1987,user1106@example.com
+U01570,2025-07-28,Berlin,TikTok Ads,1996,user1570@example.com
+U00296,2024-07-31,Hamburg,Referral,1989,user296@example.com
+U00834,2025-09-21,Munich,TikTok Ads,1991,user834@example.com
+U01041,03.03.2024,Cologne,Google Ads,1960,user1041@example.com
+U01889,2024-09-27,Frankfurt,Meta Ads,1999,user1889@example.com
+U01860,06.10.2024,Munich,Referral,1971,user1860@example.com
+U00477,2024-03-03,Cologne,Meta Ads,1982,user477@example.com
+U00677,2024-05-28,Munich,Referral,1996,user677@example.com
+U00624,2024-09-14,Frankfurt,Organic,1994,user624@example.com
+U01382,2024-05-11,Berlin,Google Ads,1999,user1382@example.com
+U01428,2025-09-17,Berlin,Meta Ads,1995,user1428@example.com
+U01812,2025-10-03,Hamburg,Organic,1968,user1812@example.com
+U00635,2025-10-22,Munich,TikTok Ads,1976,user635@example.com
+U00926,2025-08-16,Berlin,Organic,1962,user926@example.com
+U01356,2024-11-16,Cologne,TikTok Ads,1994,user1356@example.com
+U00441,2024-10-20,Frankfurt,Google Ads,1990,user441@example.com
+U00812,2024-02-10,Munich,Referral,1991,user812@example.com
+U00274,2024-09-30,Frankfurt,TikTok Ads,1967,user274@example.com
+U01566,11.02.2025,Munich,Referral,1969,user1566@example.com
+U01443,23.10.2024,Munich,Organic,1994,user1443@example.com
+U00883,2024-10-02,Berlin,TikTok Ads,1992,user883@example.com
+U01006,2024-08-11,Cologne,TikTok Ads,1972,user1006@example.com
+U01911,2025-02-20,Frankfurt,TikTok Ads,1989,user1911@example.com
+U01462,2024-09-11,Berlin,Google Ads,1975,user1462@example.com
+U00057,2024-07-23,Munich,Meta Ads,1987,user57@example.com
+U01491,2025-02-05,Berlin,Organic,2005,user1491@example.com
+U00517,2025-09-30,Cologne,TikTok Ads,1984,user517@example.com
+U01167,2025-09-01,Cologne,Meta Ads,1977,user1167@example.com
+U00566,2025-11-16,Berlin,Referral,1963,user566@example.com
+U01473,2024-06-01,Frankfurt,Google Ads,1967,user1473@example.com
+U00134,2025-08-16,Frankfurt,Referral,1989,user134@example.com
+U00726,2024-01-09,Berlin,Organic,1989,user726@example.com
+U01397,2025-09-14,Frankfurt,Meta Ads,1961,user1397@example.com
+U00131,2024-10-06,Cologne,Meta Ads,1988,user131@example.com
+U00303,2025-10-28,Berlin,TikTok Ads,1976,user303@example.com
+U01447,2025-05-30,Hamburg,Referral,1991,user1447@example.com
+U00977,2024-06-13,Munich,Meta Ads,1976,user977@example.com
+U00712,2025-04-19,Hamburg,Organic,1967,user712@example.com
+U00118,2025-03-25,Hamburg,TikTok Ads,2002,user118@example.com
+U01332,2024-06-23,Munich,TikTok Ads,1969,user1332@example.com
+U01145,2024-02-17,Cologne,TikTok Ads,1993,user1145@example.com
+U00919,2025-07-01,Hamburg,Meta Ads,1979,user919@example.com
+U01922,2025-02-22,Berlin,Meta Ads,1966,user1922@example.com
+U00046,2025-10-31,Berlin,Meta Ads,2000,user46@example.com
+U00351,2024-05-20,Munich,TikTok Ads,1972,user351@example.com
+U00133,2025-02-28,Hamburg,TikTok Ads,1990,
+U00894,2024-08-29,Berlin,Meta Ads,1991,user894@example.com
+U01211,2024-01-08,Cologne,TikTok Ads,1998,user1211@example.com
+U01954,2024-03-27,Hamburg,Referral,1982,
+U01941,2025-08-11,Munich,Referral,1997,
+U01268,2024-11-29,Munich,Referral,1994,user1268@example.com
+U00943,2024-06-29,Munich,Organic,1959,user943@example.com
+U00109,2025-05-04,Berlin,Meta Ads,1962,user109@example.com
+U01714,2025-04-11,Frankfurt,Referral,1965,user1714@example.com
+U01177,2025-08-26,Frankfurt,Google Ads,1977,user1177@example.com
+U00552,2024-02-08,Hamburg,TikTok Ads,2004,
+U00953,2025-03-20,Berlin,Organic,1995,user953@example.com
+U00459,2024-01-02,Berlin,Meta Ads,1982,user459@example.com
+U01682,2024-09-30,Frankfurt,TikTok Ads,1992,user1682@example.com
+U01135,2025-08-13,Frankfurt,Google Ads,1962,user1135@example.com
+U01321,2025-10-18,Berlin,Organic,1962,user1321@example.com
+U01438,2025-10-06,Munich,Meta Ads,1965,user1438@example.com
+U01470,2025-09-11,Frankfurt,Meta Ads,1985,user1470@example.com
+U01981,2025-07-06,Munich,TikTok Ads,1991,user1981@example.com
+U01475,2025-01-29,Frankfurt,TikTok Ads,1989,user1475@example.com
+U01966,2024-05-08,Berlin,Google Ads,1966,user1966@example.com
+U01238,2024-02-13,Frankfurt,TikTok Ads,1958,user1238@example.com
+U01693,2025-04-23,Hamburg,Google Ads,1973,
+U01654,2024-06-27,Berlin,Google Ads,1982,user1654@example.com
+U00215,2025-09-01,Hamburg,Meta Ads,1963,user215@example.com
+U00643,2025-06-03,Munich,Google Ads,1995,user643@example.com
+U01097,2024-10-16,Hamburg,TikTok Ads,1974,user1097@example.com
+U00975,2025-08-03,Frankfurt,Referral,1977,user975@example.com
+U01451,2024-03-26,Cologne,Referral,1993,user1451@example.com
+U01040,2024-09-26,Hamburg,Referral,1982,user1040@example.com
+U01607,2025-05-30,Hamburg,Organic,1967,user1607@example.com
+U00198,2025-08-12,Berlin,Organic,1983,user198@example.com
+U00264,2025-06-14,Munich,Referral,1968,user264@example.com
+U01186,2024-01-20,Cologne,Organic,1971,user1186@example.com
+U01921,2025-04-05,Frankfurt,Google Ads,1994,user1921@example.com
+U01630,2025-06-08,Hamburg,Google Ads,1997,user1630@example.com
+U00506,2024-03-24,Frankfurt,Referral,1965,user506@example.com
+U01439,2025-04-01,Hamburg,Organic,1962,user1439@example.com
+U01695,2025-01-05,Cologne,Google Ads,1974,user1695@example.com
+U01762,21.01.2024,Cologne,Organic,1992,user1762@example.com
+U00659,2024-07-03,Berlin,Referral,1983,user659@example.com
+U00276,2024-06-12,Frankfurt,Google Ads,1990,user276@example.com
+U01420,2024-07-13,Berlin,Meta Ads,1966,user1420@example.com
+U00158,2025-07-24,Frankfurt,Referral,1983,user158@example.com
+U00732,2024-07-11,Munich,Google Ads,1967,user732@example.com
+U01107,2025-08-31,Frankfurt,Referral,1979,user1107@example.com
+U00656,2024-12-04,Cologne,Meta Ads,1988,user656@example.com
+U00481,2025-04-28,Berlin,Meta Ads,1995,user481@example.com
+U00747,2025-03-24,Munich,TikTok Ads,1992,user747@example.com
+U00759,2024-08-09,Frankfurt,Meta Ads,1964,user759@example.com
+U00884,2025-05-09,Berlin,Meta Ads,1965,user884@example.com
+U01905,2024-10-11,Munich,TikTok Ads,1970,user1905@example.com
+U01642,2025-05-02,Frankfurt,Referral,1976,user1642@example.com
+U01646,2025-04-24,Hamburg,TikTok Ads,1987,user1646@example.com
+U00746,2024-01-22,Berlin,Organic,1980,user746@example.com
+U01632,2024-02-25,Hamburg,TikTok Ads,1975,user1632@example.com
+U01448,2025-07-19,Berlin,Meta Ads,1972,user1448@example.com
+U00536,2025-07-28,Frankfurt,Google Ads,1996,user536@example.com
+U01530,2025-01-14,Berlin,Organic,1959,user1530@example.com
+U00793,2025-05-16,Hamburg,Referral,1968,user793@example.com
+U01820,2025-06-09,Berlin,TikTok Ads,1974,user1820@example.com
+U01179,2025-08-02,Cologne,Meta Ads,1979,user1179@example.com
+U01285,2024-02-15,Frankfurt,Organic,1962,user1285@example.com
+U00819,2025-09-18,Munich,Referral,1982,user819@example.com
+U01190,2024-04-01,Hamburg,Meta Ads,1984,user1190@example.com
+U01063,2025-01-07,Munich,Meta Ads,1963,user1063@example.com
+U01737,2025-05-20,Berlin,Referral,1966,user1737@example.com
+U01952,2024-04-24,Frankfurt,Google Ads,1959,user1952@example.com
+U01371,2024-04-08,Cologne,Referral,1988,user1371@example.com
+U00394,27.04.2024,Munich,Meta Ads,1979,user394@example.com
+U01164,2025-06-01,Cologne,Referral,1961,user1164@example.com
+U01129,2024-03-29,Berlin,Meta Ads,1987,user1129@example.com
+U01140,2025-09-28,Munich,Meta Ads,2002,user1140@example.com
+U00849,2024-07-29,Berlin,Google Ads,1987,user849@example.com
+U00899,2024-09-25,Frankfurt,Organic,1985,user899@example.com
+U01717,2024-09-07,Cologne,Referral,1984,user1717@example.com
+U00990,2025-03-29,Frankfurt,Meta Ads,2004,user990@example.com
+U01254,2025-01-21,Berlin,Referral,1981,user1254@example.com
+U01757,2025-02-09,Hamburg,Referral,1972,user1757@example.com
+U00043,2025-04-13,Cologne,TikTok Ads,2006,
+U00500,2024-12-16,Berlin,Referral,1982,user500@example.com
+U00608,2024-06-30,Cologne,Google Ads,1962,user608@example.com
+U00026,2025-02-12,Frankfurt,Google Ads,1999,user26@example.com
+U00298,24.10.2024,Hamburg,Organic,2003,user298@example.com
+U00443,2024-07-27,Berlin,Referral,1967,user443@example.com
+U01663,2025-08-05,Munich,Google Ads,1991,user1663@example.com
+U01327,2024-03-23,Frankfurt,Referral,1970,user1327@example.com
+U00902,2024-09-18,Munich,TikTok Ads,1983,user902@example.com
+U00463,2025-08-04,Hamburg,Referral,2000,user463@example.com
+U01793,2025-04-30,Cologne,Meta Ads,1991,user1793@example.com
+U00503,2025-07-07,Frankfurt,TikTok Ads,1976,user503@example.com
+U00449,2025-05-23,Munich,Referral,1981,user449@example.com
+U01424,2024-01-14,Frankfurt,TikTok Ads,1973,user1424@example.com
+U01707,2024-10-28,Munich,TikTok Ads,1968,user1707@example.com
+U00460,2025-06-26,Munich,Referral,1984,user460@example.com
+U01013,2025-11-06,Berlin,Google Ads,1961,user1013@example.com
+U00054,2024-12-28,Munich,Meta Ads,1984,user54@example.com
+U00561,07.10.2025,Hamburg,TikTok Ads,1984,user561@example.com
+U01368,2025-04-13,Hamburg,Meta Ads,1994,user1368@example.com
+U00318,2025-06-01,Cologne,Organic,1992,user318@example.com
+U01123,2024-07-08,Frankfurt,TikTok Ads,1996,user1123@example.com
+U00504,2025-07-16,Berlin,Referral,1967,
+U00084,2024-05-18,Munich,Organic,1969,user84@example.com
+U01692,2025-04-19,Munich,Organic,2004,user1692@example.com
+U00907,2024-05-02,Cologne,Meta Ads,1996,user907@example.com
+U00461,05.04.2024,Hamburg,Organic,1972,user461@example.com
+U00664,2024-06-02,Berlin,TikTok Ads,1969,user664@example.com
+U00169,2024-07-29,Munich,Referral,2006,user169@example.com
+U01168,2025-01-21,Munich,Referral,1973,user1168@example.com
+U01257,26.01.2025,Hamburg,Google Ads,1986,user1257@example.com
+U00602,2025-11-30,Cologne,Google Ads,1961,user602@example.com
+U01636,2025-10-05,Munich,Google Ads,1958,user1636@example.com
+U01818,2025-07-04,Hamburg,Meta Ads,2002,user1818@example.com
+U01795,2025-05-16,Frankfurt,Referral,1974,user1795@example.com
+U01669,2024-08-29,Berlin,Referral,1994,user1669@example.com
+U01508,2025-01-07,Hamburg,Organic,1962,user1508@example.com
+U01731,2024-10-18,Munich,Referral,1976,user1731@example.com
+U00213,2024-12-03,Cologne,Meta Ads,2001,user213@example.com
+U00789,2025-04-21,Hamburg,Google Ads,1958,user789@example.com
+U01887,2025-03-14,Cologne,Google Ads,1964,user1887@example.com
+U00273,2024-05-13,Frankfurt,Google Ads,1990,user273@example.com
+U00813,2025-03-26,Munich,Organic,1977,user813@example.com
+U00725,11.01.2024,Frankfurt,TikTok Ads,2006,user725@example.com
+U01092,2024-08-28,Cologne,Google Ads,1980,user1092@example.com
+U00697,2025-02-11,Frankfurt,Organic,1994,user697@example.com
+U01467,2024-01-25,Munich,Organic,1982,user1467@example.com
+U00299,2024-08-07,Hamburg,Meta Ads,1992,user299@example.com
+U00540,2025-03-04,Cologne,Meta Ads,2005,user540@example.com
+U01746,2025-11-03,Frankfurt,Organic,1977,user1746@example.com
+U00829,2024-11-02,Cologne,Google Ads,1982,user829@example.com
+U01359,2024-05-28,Frankfurt,Meta Ads,1976,user1359@example.com
+U01796,01.07.2024,Hamburg,Organic,1981,user1796@example.com
+U01874,2025-04-05,Hamburg,Organic,1969,
+U01225,2024-11-04,Cologne,Google Ads,1985,user1225@example.com
+U01458,2024-07-03,Frankfurt,TikTok Ads,1959,user1458@example.com
+U01959,2025-02-17,Berlin,Referral,1974,
+U00192,2025-03-28,Frankfurt,Google Ads,1971,user192@example.com
+U00407,2024-06-20,Berlin,Referral,1959,user407@example.com
+U00156,2025-01-09,Frankfurt,Referral,1975,user156@example.com
+U01425,2024-01-09,Frankfurt,Meta Ads,1976,user1425@example.com
+U01267,2024-12-13,Cologne,Referral,1985,user1267@example.com
+U00816,2025-02-06,Munich,Organic,1986,user816@example.com
+U00365,20.12.2024,Cologne,TikTok Ads,1985,user365@example.com
+U01970,09.10.2025,Berlin,Meta Ads,1970,
+U01147,2024-04-18,Cologne,Google Ads,1997,user1147@example.com
+U01951,2025-03-01,Hamburg,TikTok Ads,1963,user1951@example.com
+U00607,2025-07-13,Hamburg,Organic,1970,user607@example.com
+U01148,2025-06-03,Hamburg,Meta Ads,1998,user1148@example.com
+U01316,2025-01-25,Cologne,TikTok Ads,1963,user1316@example.com
+U01435,2024-04-24,Munich,Referral,1958,user1435@example.com
+U01037,2025-11-06,Frankfurt,Meta Ads,1977,user1037@example.com
+U01862,2024-08-14,Frankfurt,TikTok Ads,1976,user1862@example.com
+U00636,2025-05-13,Berlin,Referral,1980,user636@example.com
+U01192,2024-09-21,Cologne,TikTok Ads,1965,user1192@example.com
+U00389,18.04.2024,Cologne,TikTok Ads,1974,user389@example.com
+U00229,2024-01-29,Munich,Meta Ads,1964,user229@example.com
+U00033,2025-03-08,Frankfurt,TikTok Ads,1987,user33@example.com
+U00662,2024-06-20,Berlin,Meta Ads,1979,user662@example.com
+U00346,2025-07-20,Munich,Referral,1995,user346@example.com
+U00327,2025-06-28,Hamburg,Meta Ads,1972,user327@example.com
+U01546,2024-06-11,Berlin,TikTok Ads,1971,
+U00741,2024-04-25,Hamburg,TikTok Ads,1985,user741@example.com
+U01835,2024-05-11,Hamburg,Organic,1966,user1835@example.com
+U00897,2025-10-19,Frankfurt,Referral,1965,user897@example.com
+U01651,2024-05-12,Cologne,Organic,1995,user1651@example.com
+U00691,2024-10-21,Cologne,Meta Ads,2001,user691@example.com
+U00719,2025-09-24,Munich,Meta Ads,1999,user719@example.com
+U00995,2024-11-07,Berlin,Meta Ads,2005,
+U01449,2024-10-11,Munich,Meta Ads,1975,user1449@example.com
+U01754,2025-09-20,Berlin,Organic,1966,
+U00543,2024-04-09,Munich,Referral,2005,user543@example.com
+U00415,2025-08-09,Berlin,Meta Ads,1990,user415@example.com
+U00784,2024-02-25,Hamburg,Google Ads,1997,user784@example.com
+U01550,2024-09-23,Berlin,TikTok Ads,1975,user1550@example.com
+U00382,2025-07-12,Munich,Organic,1993,user382@example.com
+U01958,2025-11-15,Munich,Referral,1965,
+U01019,2025-05-31,Frankfurt,Google Ads,1988,user1019@example.com
+U01274,2025-01-12,Frankfurt,Meta Ads,1968,user1274@example.com
+U00641,2025-05-13,Hamburg,Meta Ads,1969,user641@example.com
+U00832,2025-05-10,Hamburg,Organic,1996,user832@example.com
+U01310,2025-05-18,Munich,Meta Ads,1970,user1310@example.com
+U00186,2025-03-15,Berlin,TikTok Ads,1997,user186@example.com
+U01479,05.01.2025,Munich,Google Ads,1959,user1479@example.com
+U01873,2025-05-29,Frankfurt,Referral,1983,user1873@example.com
+U00208,2025-08-31,Berlin,Organic,1987,user208@example.com
+U00627,2025-01-01,Cologne,Google Ads,1964,user627@example.com
+U01698,2024-08-11,Cologne,TikTok Ads,1995,user1698@example.com
+U00649,2024-02-13,Frankfurt,Organic,1991,user649@example.com
+U00467,2025-04-19,Hamburg,TikTok Ads,1965,user467@example.com
+U01713,2024-10-27,Hamburg,Meta Ads,1979,user1713@example.com
+U01649,2025-11-05,Frankfurt,Organic,1983,user1649@example.com
+U01516,2024-07-23,Frankfurt,Meta Ads,1962,user1516@example.com
+U01103,2024-10-06,Berlin,TikTok Ads,2000,user1103@example.com
+U01263,2025-02-11,Cologne,TikTok Ads,2004,user1263@example.com
+U00721,2025-11-10,Cologne,Referral,1978,user721@example.com
+U00684,2025-07-16,Hamburg,Meta Ads,1993,user684@example.com
+U00183,2025-11-12,Hamburg,TikTok Ads,1985,user183@example.com
+U01755,2024-04-02,Cologne,Google Ads,1979,user1755@example.com
+U01024,2024-10-24,Frankfurt,Referral,1985,user1024@example.com
+U01730,2024-08-03,Berlin,Referral,1975,user1730@example.com
+U00353,17.01.2024,Hamburg,TikTok Ads,1993,
+U01671,2024-05-12,Munich,Referral,1960,user1671@example.com
+U01600,2024-08-13,Munich,Referral,2002,user1600@example.com
+U00714,2024-08-21,Frankfurt,Referral,1999,user714@example.com
+U01543,2024-02-22,Frankfurt,Meta Ads,1994,user1543@example.com
+U00822,2024-01-04,Frankfurt,TikTok Ads,1974,user822@example.com
+U01517,2025-05-02,Frankfurt,Meta Ads,1987,user1517@example.com
+U00660,2024-03-28,Munich,Meta Ads,1996,user660@example.com
+U01328,2024-11-05,Hamburg,Organic,1992,user1328@example.com
+U01121,2024-03-26,Frankfurt,Organic,2003,user1121@example.com
+U01769,2024-04-07,Munich,Google Ads,1971,user1769@example.com
+U01579,17.08.2024,Frankfurt,Meta Ads,1958,user1579@example.com
+U01144,2025-09-24,Hamburg,Referral,1993,user1144@example.com
+U00429,2024-05-15,Berlin,Google Ads,1972,user429@example.com
+U00329,2024-07-30,Berlin,Meta Ads,1996,user329@example.com
+U01626,2025-10-05,Frankfurt,Google Ads,1969,user1626@example.com
+U01575,16.02.2025,Berlin,Google Ads,1992,user1575@example.com
+U00539,2025-11-07,Hamburg,Referral,1966,user539@example.com
+U01301,2024-12-06,Frankfurt,Google Ads,2006,user1301@example.com
+U01432,2024-10-02,Berlin,Meta Ads,1980,user1432@example.com
+U00939,2025-07-06,Hamburg,Google Ads,1987,user939@example.com
+U00665,2025-05-30,Cologne,TikTok Ads,1963,user665@example.com
+U00098,2024-01-30,Hamburg,Referral,1978,user98@example.com
+U01606,22.04.2024,Munich,TikTok Ads,1959,user1606@example.com
+U00914,2025-08-08,Berlin,Google Ads,1986,user914@example.com
+U00567,2025-10-21,Munich,Google Ads,1976,user567@example.com
+U00510,2025-02-27,Frankfurt,TikTok Ads,1995,user510@example.com
+U01978,2025-03-22,Munich,Organic,1963,user1978@example.com
+U01994,2025-01-06,Frankfurt,Organic,2000,user1994@example.com
+U00722,2025-07-15,Frankfurt,TikTok Ads,2002,user722@example.com
+U00705,2024-01-10,Cologne,TikTok Ads,1989,user705@example.com
+U01399,2025-05-03,Munich,Meta Ads,1974,user1399@example.com
+U01677,2025-07-03,Berlin,Google Ads,1958,user1677@example.com
+U00735,2025-04-19,Munich,Google Ads,1960,user735@example.com
+U00520,29.04.2025,Frankfurt,Google Ads,1975,user520@example.com
+U01825,2025-08-30,Munich,Referral,1985,user1825@example.com
+U01740,2025-03-19,Cologne,Google Ads,2003,user1740@example.com
+U00936,2025-04-06,Munich,Organic,1969,user936@example.com
+U01494,2024-01-29,Cologne,Google Ads,1968,user1494@example.com
+U00059,2025-10-18,Berlin,Google Ads,2001,user59@example.com
+U01643,2025-11-14,Frankfurt,Organic,1982,user1643@example.com
+U00845,2024-02-02,Frankfurt,Referral,1963,user845@example.com
+U01886,2025-02-11,Cologne,Organic,2004,user1886@example.com
+U00599,2024-12-26,Frankfurt,TikTok Ads,1995,user599@example.com
+U00203,2024-04-15,Berlin,Meta Ads,1970,user203@example.com
+U00674,2024-11-10,Berlin,Meta Ads,2003,user674@example.com
+U01938,2025-08-10,Berlin,Organic,1997,user1938@example.com
+U01292,2024-11-11,Munich,Meta Ads,1996,user1292@example.com
